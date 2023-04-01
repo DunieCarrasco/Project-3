@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Agricultural Database</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+  <style>
+    .bgimg1 {
+
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+
+      min-height: 90%;
+      background-image: url('agiculture.JPG');
+
+    }
+
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+
+    .contact {
+      margin-left: 10px;
+      margin-right: 0px;
+      margin-top: 10px;
+      background-color: black;
+      color: white;
+      font-weight: 200;
+    }
+
+    .contactboarder {
+      border-radius: 5px;
+      box-shadow: 10px 10px 5px #888888;
+    }
+
+    .contactboarder2 {
+      margin-left: 100px;
+      margin-right: 100px;
+      margin-top: 10px;
+      border-radius: 5px;
+      box-shadow: 10px 10px 5px #888888;
+      background-color: black;
+
+    }
+
+    .dropdown {
+      font-size: 16px;
+    }
+
+    .radioButton {
+      font-size: 12px;
+    }
+
+    .button2 {
+      border-radius: 4px;
+      width: 150px;
+      font-size: 16px;
+      padding: 12px 28px;
+      transition-duration: 0.4s;
+
+    }
+
+    .button2:hover {
+      box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+      background-color: #CFD0D0;
+      /* Green */
+
+    }
+
+    .outline {
+      outline-style: double;
+    }
+  </style>
+
+
+</head>
+
+<body>
+  <div class="bgimg1 container  ">
+    <div class="row ">
+      <div class="col-md-12 text-center">
+        <h1> <br></h1>
+        <h1> <br></h1>
+        <h1> <br></h1>
+        <h1> <br></h1>
+        <h1> <br></h1>
+        <h1> <br></h1>
+
+
+        <p></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="container ">
+
+    <div class="row ">
+      <div class="col-md-12 text-center">
+        <br>
+      </div>
+    </div>
+
+
+    <div class="row ">
+
+      <div class=" col-md-3">
+        <label for="Year">Years:</label><br>
+        <input type="text" id="year" class="contactboarder" name="year" value="2000-2018">
+        <br> <br> 
+        <input id="submitButton" type="button" class="button2" value="Submit"><br>
+      </div>
+
+      <div class=" col-md-3">
+        <label for="Produce">Produce:</label><br>
+        <input type="text" class="contactboarder" id="produce" name="produce" value="Corn"><br><br>
+
+      </div>
+
+      <div class=" col-md-3">
+        <label for="States">State:</label><br>
+        <select class="contactboarder" id="states" class="dropdown" value='CA' multiple>
+          <option value='CA' selected>California</option>
+          <option value='KS'>Kansas</option>
+          <option value='MN'>Minnesota</option>
+          <option value='NE'>Nebraska</option>
+          <option value='NC'> North Carolina</option>
+          <option value='TX'>Texas</option>
+          <option value='WI'>Wisconsin</option>
+          <option value='IL'>Illinois</option>
+          <option value='IN'>Indiana</option>
+          <option value='IA'>Iowa</option>
+
+        </select>
+      </div><br>
+
+      <div class="col-md-3 ">
+        <label for="group">Groups:</label><br>
+        <span class="radioButton">
+          <input type="radio" id="fruit" name="group" value="fruit" checked>
+          <label for="fruit">Fruits</label><br>
+
+          <input type="radio" id="vegetable" name="group" value="vegetable">
+          <label for="vegetable">Vegetables</label><br>
+
+          <input type="radio" id="all_groups" name="group" value="all_groups">
+          <label for="all_groups">All</label>
+        </span>
+      </div>
+
+
+      <!--  <div class=" col-md-3">
+        <label for="stats">Statistics:</label>
+
+        <p class="radioButton">
+          <input type="radio" name="stats" value="sale" checked>
+          <label for="sale">Price Received</label><br>
+
+
+          <input type="radio" name="stats" value="area">
+          <label for="area">Area Harvested</label><br>
+
+          <input type="radio" name="stats" value="all_stats">
+          <label for="all_stats">All</label><br>
+        </p>
+      </div> -->
+
+
+
+      <!--  <div class="col-md-3 panel panel-primary">
+        <div class="panel-heading">
+          <h3 class="panel-title">Information</h3>
+        </div>
+        <div id="sample-metadata" class="panel-body"></div>
+      </div> -->
+
+    </div>
+
+
+    <br>
+
+    <!-- ****P L O T S**** -->
+    <div class="row">
+      <div class="col-md-6">
+        <div id="statesBar"></div>
+      </div>
+    
+    
+    <div class="col-md-6">
+      <div id="yearlyBar"></div>
+    </div>
+  </div>
+</div>
+  </div>
+  <!-- ****************** -->
+
+  <div class="contactboarder w3-container  w3-black w3-center" style="width:100%">
+    <div id="contactme" class="">
+      <div class=" col-sm-3" style="margin-top:3px">
+
+        @Group 4, Project 3
+      </div>
+
+
+
+    </div>
+  </div>
+
+
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="./static/js/app.js"></script>
+
+
+</body>
+
+</html>
