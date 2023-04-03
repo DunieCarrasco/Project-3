@@ -54,7 +54,8 @@
     }
 
     .dropdown {
-      font-size: 16px;
+      font-size: 10px;
+      width: 50px;
     }
 
     .radioButton {
@@ -79,6 +80,14 @@
 
     .outline {
       outline-style: double;
+    }
+
+    .flex-parent {
+      display: flex;
+    }
+
+    .jc-center {
+      justify-content: center;
     }
   </style>
 
@@ -111,25 +120,46 @@
     </div>
 
 
-    <div class="row ">
+    <div class="row">
 
       <div class=" col-md-3">
-        <label for="Year">Years:</label><br>
-        <input type="text" id="year" class="contactboarder" name="year" value="2000-2018">
-        <br> <br> 
-        <input id="submitButton" type="button" class="button2" value="Submit"><br>
+        <label for="Years">Year:</label><br>
+        <select class="contactboarder" id="years" class="dropdown" style="width: 80px;" multiple>
+          <option value='2022'>2022 </option>
+          <option value='2021'> 2021</option>
+          <option value='2020'> 2020</option>
+          <option value='2019'> 2019</option>
+          <option value='2018'> 2018</option>
+          <option value='2017'> 2017</option>
+          <option value='2016'> 2016</option>
+          <option value='2015'> 2015</option>
+          <option value='2014'> 2014</option>
+          <option value='2013'> 2013</option>
+          <option value='2012'> 2012</option>
+          <option value='2011'> 2011</option>
+          <option value='2010'> 2010</option>
+          <option value='2009'> 2009</option>
+          <option value='2008'> 2008</option>
+          <option value='2007'> 2007</option>
+          <option value='2006'> 2006</option>
+          <option value='2005'> 2005</option>
+          <option value='2004'> 2004</option>
+          <option value='2003'> 2003</option>
+          <option value='2002'> 2002</option>
+          <option value='2001'> 2001</option>
+          <option value='2000'> 2000</option>
+          <option value='1999'> 1999</option>
+          <option value='1998'> 1998</option>
+          <option value='1997'> 1997</option>
+        </select>
+        <br><br>
       </div>
 
-      <div class=" col-md-3">
-        <label for="Produce">Produce:</label><br>
-        <input type="text" class="contactboarder" id="produce" name="produce" value="Corn"><br><br>
-
-      </div>
 
       <div class=" col-md-3">
-        <label for="States">State:</label><br>
+        <label for="States">States:</label><br>
         <select class="contactboarder" id="states" class="dropdown" value='CA' multiple>
-          <option value='CA' selected>California</option>
+          <option value='CA'>California</option>
           <option value='KS'>Kansas</option>
           <option value='MN'>Minnesota</option>
           <option value='NE'>Nebraska</option>
@@ -139,68 +169,113 @@
           <option value='IL'>Illinois</option>
           <option value='IN'>Indiana</option>
           <option value='IA'>Iowa</option>
-
         </select>
-      </div><br>
-
-      <div class="col-md-3 ">
-        <label for="group">Groups:</label><br>
-        <span class="radioButton">
-          <input type="radio" id="fruit" name="group" value="fruit" checked>
-          <label for="fruit">Fruits</label><br>
-
-          <input type="radio" id="vegetable" name="group" value="vegetable">
-          <label for="vegetable">Vegetables</label><br>
-
-          <input type="radio" id="all_groups" name="group" value="all_groups">
-          <label for="all_groups">All</label>
-        </span>
+        <br><br>
       </div>
 
+      <div class=" col-md-3">
+        <label for="Produce">Vegetables and Grains:</label><br>
+        <select class="contactboarder" id="VegAndGrain" class="dropdown" multiple>
+          <option value='CORN'>CORN</option>
+          <option value='WHEAT'>WHEAT</option>
+          <option value='SOYBEANS'>SOYBEANS</option>
+          <option value='COTTON'>COTTON</option>
+          <!-- <option value='HAY & HAYLAGE' >HAY & HAYLAGE</option> -->
+          <option value='SORGHUM'>SORGHUM</option>
+          <option value='RICE'>RICE</option>
+          <!-- <option value='OAT' >OAT</option> -->
+          <option value='BEANS'>BEANS</option>
+          <option value='SUNFLOWER'>SUNFLOWER</option>
+          <option value='SUGARBEETS'>SUGARBEETS</option>
+          <option value='PEANUTS'>PEANUTS</option>
+          <option value='POTATOES'>POTATOES</option>
+          <!-- <option value='TOMATOES' >TOMATOES</option> -->
+          <option value='BARLEY'>BARLEY</option>
+          <!-- <option value='SWEET CORN' >SWEET CORN</option> -->
+          <option value='LETTUCE'>LETTUCE</option>
+          <option value='PEAS'>PEAS</option>
+          <option value='MILLET'>MILLET</option>
+          <option value='BROCCOLI'>BROCCOLI</option>
+          <option value='MELONS'>MELONS</option>
+          <!-- <option value='SWEET POTATOES' >SWEET POTATOES</option> -->
+          <option value='CARROTS'>CARROTS</option>
+          <option value='CANOLA'>CANOLA</option>
+          <!-- <option value='RYE' >RYE</option> -->
+          <option value='ONIONS'>ONIONS</option>
+          <option value='SAFFLOWER'>SAFFLOWER</option>
+          <option value='CAULIFLOWER'>CAULIFLOWER</option>
+          <option value='SPINACH'>SPINACH</option>
+          <option value='CUCUMBERS'>CUCUMBERS</option>
+          <option value='PEPPERS'>PEPPERS</option>
+          <option value='CABBAGE'>CABBAGE</option>
+          <option value='GARLIC'>GARLIC</option>
+          <option value='CELERY'>CELERY</option>
+          <option value='CHICKPEAS'>CHICKPEAS</option>
+          <option value='PUMPKINS'>PUMPKINS</option>
+          <option value='ASPARAGUS'>ASPARAGUS</option>
+          <!-- <option value= 'SQUASH'>SQUASH</option>    -->
+          <option value='ARTICHOKES'>ARTICHOKES</option>
+          <option value='FLAXSEED'>FLAXSEED</option>
+          <option value='BRUSSELS SPROUTS'>BRUSSELS SPROUTS</option>
+          <option value='BEETS'>BEETS</option>
+          <option value='EGGPLANT'>EGGPLANT </option>
+          <option value='RADISHES'>RADISHES</option>
+          <option value='OKRA'>OKRA</option>
+        </select>
+        <br><br>
+      </div>
 
-      <!--  <div class=" col-md-3">
-        <label for="stats">Statistics:</label>
+      <div class="  col-md-3">
+        <br> <br>
+        <input id="submitButton" type="button" class="button2" value="Submit"><br>
+        <!-- <button type="submit">Inline-block button</button> -->
+      </div>
 
-        <p class="radioButton">
-          <input type="radio" name="stats" value="sale" checked>
-          <label for="sale">Price Received</label><br>
+      
 
-
-          <input type="radio" name="stats" value="area">
-          <label for="area">Area Harvested</label><br>
-
-          <input type="radio" name="stats" value="all_stats">
-          <label for="all_stats">All</label><br>
-        </p>
-      </div> -->
-
-
-
-      <!--  <div class="col-md-3 panel panel-primary">
-        <div class="panel-heading">
-          <h3 class="panel-title">Information</h3>
-        </div>
-        <div id="sample-metadata" class="panel-body"></div>
-      </div> -->
+     
 
     </div>
 
 
-    <br>
+
+
+
+    <div class="row">
+      <div class="col-md-12" id="chartReport">
+        <canvas id="myChart"></canvas>
+      </div>
+
+    </div>
+
+
+
+
 
     <!-- ****P L O T S**** -->
     <div class="row">
       <div class="col-md-6">
         <div id="statesBar"></div>
       </div>
-    
-    
-    <div class="col-md-6">
-      <div id="yearlyBar"></div>
+
+
+      <div class="col-md-6">
+        <div id="yearlyBar"></div>
+      </div>
     </div>
+
+    <div class="row">
+      <div class="col-md-12">
+        <div id="bubbleChart"></div>
+      </div>
+    </div>
+    <br>
   </div>
-</div>
   </div>
+
+
+
+
   <!-- ****************** -->
 
   <div class="contactboarder w3-container  w3-black w3-center" style="width:100%">
@@ -214,8 +289,7 @@
 
     </div>
   </div>
-
-
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="https://d3js.org/d3.v5.min.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="./static/js/app.js"></script>
