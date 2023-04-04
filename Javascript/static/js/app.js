@@ -214,6 +214,32 @@ function buildBubbleChart(sample) {
     });
 };
 
+
+
+fetch(usdaData)
+  .then(response => response.json())
+  .then(data => {
+    // Define the data for the chart
+    var chartData = {
+      values: data.Value,
+      labels: data.commodity_desc,
+      type: 'pie',
+      hole: 0.5,
+      marker: {
+        colors: markerColors
+      }
+    };
+
+    // Define the layout for the chart
+    var layout = {
+        title: 'My Chart Title',
+        showlegend: true
+      };
+  
+      // Create the chart
+      Plotly.newPlot('myDiv', traceData, layout);
+    })
+
 // -------------------------------------------------------
 
 //update after each submission
