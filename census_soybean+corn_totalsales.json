@@ -1,0 +1,2968 @@
+[{
+  "_id": {
+    "$oid": "642ba29646154063e2244779"
+  },
+  "Year": 2017,
+  "State": "ALABAMA",
+  "State ANSI": 1,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "151,892,000",
+  "CV (%)": 8.2
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224477a"
+  },
+  "Year": 2017,
+  "State": "ALABAMA",
+  "State ANSI": 1,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "146,966,000",
+  "CV (%)": 3.6
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224477b"
+  },
+  "Year": 2017,
+  "State": "ARIZONA",
+  "State ANSI": 4,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "62,737,000",
+  "CV (%)": 13.8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224477c"
+  },
+  "Year": 2017,
+  "State": "ARKANSAS",
+  "State ANSI": 5,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "386,041,000",
+  "CV (%)": 6
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224477d"
+  },
+  "Year": 2017,
+  "State": "ARKANSAS",
+  "State ANSI": 5,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "1,717,830,000",
+  "CV (%)": 6
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224477e"
+  },
+  "Year": 2017,
+  "State": "CALIFORNIA",
+  "State ANSI": 6,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "255,070,000",
+  "CV (%)": 28.4
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224477f"
+  },
+  "Year": 2017,
+  "State": "COLORADO",
+  "State ANSI": 8,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "720,578,000",
+  "CV (%)": 9.6
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244780"
+  },
+  "Year": 2017,
+  "State": "COLORADO",
+  "State ANSI": 8,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "8,693,000",
+  "CV (%)": 19.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244781"
+  },
+  "Year": 2017,
+  "State": "CONNECTICUT",
+  "State ANSI": 9,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "10,777,000",
+  "CV (%)": 18.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244782"
+  },
+  "Year": 2017,
+  "State": "CONNECTICUT",
+  "State ANSI": 9,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "261,000",
+  "CV (%)": "(H)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244783"
+  },
+  "Year": 2017,
+  "State": "DELAWARE",
+  "State ANSI": 10,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "128,602,000",
+  "CV (%)": 6.4
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244784"
+  },
+  "Year": 2017,
+  "State": "DELAWARE",
+  "State ANSI": 10,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "85,734,000",
+  "CV (%)": 9.4
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244785"
+  },
+  "Year": 2017,
+  "State": "FLORIDA",
+  "State ANSI": 12,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "28,567,000",
+  "CV (%)": 12.7
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244786"
+  },
+  "Year": 2017,
+  "State": "FLORIDA",
+  "State ANSI": 12,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "4,782,000",
+  "CV (%)": 23.1
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244787"
+  },
+  "Year": 2017,
+  "State": "GEORGIA",
+  "State ANSI": 13,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "203,556,000",
+  "CV (%)": 5.9
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244788"
+  },
+  "Year": 2017,
+  "State": "GEORGIA",
+  "State ANSI": 13,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "57,183,000",
+  "CV (%)": 5.4
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244789"
+  },
+  "Year": 2017,
+  "State": "HAWAII",
+  "State ANSI": 15,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "80,106,000",
+  "CV (%)": 6.1
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224478a"
+  },
+  "Year": 2017,
+  "State": "HAWAII",
+  "State ANSI": 15,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)",
+  "CV (%)": "(D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224478b"
+  },
+  "Year": 2017,
+  "State": "IDAHO",
+  "State ANSI": 16,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "280,789,000",
+  "CV (%)": 7.5
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224478c"
+  },
+  "Year": 2017,
+  "State": "IDAHO",
+  "State ANSI": 16,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)",
+  "CV (%)": "(D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224478d"
+  },
+  "Year": 2017,
+  "State": "ILLINOIS",
+  "State ANSI": 17,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "7,395,729,000",
+  "CV (%)": 3.1
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224478e"
+  },
+  "Year": 2017,
+  "State": "ILLINOIS",
+  "State ANSI": 17,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "5,668,028,000",
+  "CV (%)": 2.8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224478f"
+  },
+  "Year": 2017,
+  "State": "INDIANA",
+  "State ANSI": 18,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "3,542,096,000",
+  "CV (%)": 2.8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244790"
+  },
+  "Year": 2017,
+  "State": "INDIANA",
+  "State ANSI": 18,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "3,024,384,000",
+  "CV (%)": 2.8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244791"
+  },
+  "Year": 2017,
+  "State": "IOWA",
+  "State ANSI": 19,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "8,463,142,000",
+  "CV (%)": 1.6
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244792"
+  },
+  "Year": 2017,
+  "State": "IOWA",
+  "State ANSI": 19,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "5,058,007,000",
+  "CV (%)": 2.9
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244793"
+  },
+  "Year": 2017,
+  "State": "KANSAS",
+  "State ANSI": 20,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "2,304,987,000",
+  "CV (%)": 3.1
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244794"
+  },
+  "Year": 2017,
+  "State": "KANSAS",
+  "State ANSI": 20,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "1,764,550,000",
+  "CV (%)": 5.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244795"
+  },
+  "Year": 2017,
+  "State": "KENTUCKY",
+  "State ANSI": 21,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "825,135,000",
+  "CV (%)": 3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244796"
+  },
+  "Year": 2017,
+  "State": "KENTUCKY",
+  "State ANSI": 21,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "926,138,000",
+  "CV (%)": 3.9
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244797"
+  },
+  "Year": 2017,
+  "State": "LOUISIANA",
+  "State ANSI": 22,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "333,164,000",
+  "CV (%)": 9
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244798"
+  },
+  "Year": 2017,
+  "State": "LOUISIANA",
+  "State ANSI": 22,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "646,601,000",
+  "CV (%)": 9.4
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244799"
+  },
+  "Year": 2017,
+  "State": "MAINE",
+  "State ANSI": 23,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "8,617,000",
+  "CV (%)": 18
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224479a"
+  },
+  "Year": 2017,
+  "State": "MAINE",
+  "State ANSI": 23,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "390,000",
+  "CV (%)": 33
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224479b"
+  },
+  "Year": 2017,
+  "State": "MARYLAND",
+  "State ANSI": 24,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "280,846,000",
+  "CV (%)": 2.8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224479c"
+  },
+  "Year": 2017,
+  "State": "MARYLAND",
+  "State ANSI": 24,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "237,140,000",
+  "CV (%)": 2.2
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224479d"
+  },
+  "Year": 2017,
+  "State": "MASSACHUSETTS",
+  "State ANSI": 25,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "5,007,000",
+  "CV (%)": 15.8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224479e"
+  },
+  "Year": 2017,
+  "State": "MASSACHUSETTS",
+  "State ANSI": 25,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "162,000",
+  "CV (%)": 0.8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224479f"
+  },
+  "Year": 2017,
+  "State": "MICHIGAN",
+  "State ANSI": 26,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "1,290,882,000",
+  "CV (%)": 4.8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447a0"
+  },
+  "Year": 2017,
+  "State": "MICHIGAN",
+  "State ANSI": 26,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "998,608,000",
+  "CV (%)": 7.5
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447a1"
+  },
+  "Year": 2017,
+  "State": "MINNESOTA",
+  "State ANSI": 27,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "4,766,809,000",
+  "CV (%)": 2
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447a2"
+  },
+  "Year": 2017,
+  "State": "MINNESOTA",
+  "State ANSI": 27,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "3,447,327,000",
+  "CV (%)": 2.1
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447a3"
+  },
+  "Year": 2017,
+  "State": "MISSISSIPPI",
+  "State ANSI": 28,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "346,042,000",
+  "CV (%)": 8.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447a4"
+  },
+  "Year": 2017,
+  "State": "MISSISSIPPI",
+  "State ANSI": 28,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "1,105,953,000",
+  "CV (%)": 9.7
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447a5"
+  },
+  "Year": 2017,
+  "State": "MISSOURI",
+  "State ANSI": 29,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "1,896,184,000",
+  "CV (%)": 5.9
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447a6"
+  },
+  "Year": 2017,
+  "State": "MISSOURI",
+  "State ANSI": 29,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "2,613,459,000",
+  "CV (%)": 5.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447a7"
+  },
+  "Year": 2017,
+  "State": "MONTANA",
+  "State ANSI": 30,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "54,746,000",
+  "CV (%)": 10.9
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447a8"
+  },
+  "Year": 2017,
+  "State": "MONTANA",
+  "State ANSI": 30,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "3,505,000",
+  "CV (%)": 27.7
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447a9"
+  },
+  "Year": 2017,
+  "State": "NEBRASKA",
+  "State ANSI": 31,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "5,602,777,000",
+  "CV (%)": 6.8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447aa"
+  },
+  "Year": 2017,
+  "State": "NEBRASKA",
+  "State ANSI": 31,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "2,844,253,000",
+  "CV (%)": 5.8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447ab"
+  },
+  "Year": 2017,
+  "State": "NEVADA",
+  "State ANSI": 32,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "10,633,000",
+  "CV (%)": 75
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447ac"
+  },
+  "Year": 2017,
+  "State": "NEW HAMPSHIRE",
+  "State ANSI": 33,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "4,053,000",
+  "CV (%)": 4.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447ad"
+  },
+  "Year": 2017,
+  "State": "NEW HAMPSHIRE",
+  "State ANSI": 33,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)",
+  "CV (%)": "(D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447ae"
+  },
+  "Year": 2017,
+  "State": "NEW JERSEY",
+  "State ANSI": 34,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "45,344,000",
+  "CV (%)": 13.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447af"
+  },
+  "Year": 2017,
+  "State": "NEW JERSEY",
+  "State ANSI": 34,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "40,803,000",
+  "CV (%)": 8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447b0"
+  },
+  "Year": 2017,
+  "State": "NEW MEXICO",
+  "State ANSI": 35,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "69,102,000",
+  "CV (%)": 9.7
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447b1"
+  },
+  "Year": 2017,
+  "State": "NEW MEXICO",
+  "State ANSI": 35,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "120,000",
+  "CV (%)": "(H)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447b2"
+  },
+  "Year": 2017,
+  "State": "NEW YORK",
+  "State ANSI": 36,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "398,578,000",
+  "CV (%)": 2.7
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447b3"
+  },
+  "Year": 2017,
+  "State": "NEW YORK",
+  "State ANSI": 36,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "116,121,000",
+  "CV (%)": 3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447b4"
+  },
+  "Year": 2017,
+  "State": "NORTH CAROLINA",
+  "State ANSI": 37,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "492,821,000",
+  "CV (%)": 2.6
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447b5"
+  },
+  "Year": 2017,
+  "State": "NORTH CAROLINA",
+  "State ANSI": 37,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "630,791,000",
+  "CV (%)": 4.6
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447b6"
+  },
+  "Year": 2017,
+  "State": "NORTH DAKOTA",
+  "State ANSI": 38,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "1,409,445,000",
+  "CV (%)": 7.5
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447b7"
+  },
+  "Year": 2017,
+  "State": "NORTH DAKOTA",
+  "State ANSI": 38,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "2,113,612,000",
+  "CV (%)": 7.5
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447b8"
+  },
+  "Year": 2017,
+  "State": "OHIO",
+  "State ANSI": 39,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "2,031,765,000",
+  "CV (%)": 1.7
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447b9"
+  },
+  "Year": 2017,
+  "State": "OHIO",
+  "State ANSI": 39,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "2,333,805,000",
+  "CV (%)": 3.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447ba"
+  },
+  "Year": 2017,
+  "State": "OKLAHOMA",
+  "State ANSI": 40,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "148,592,000",
+  "CV (%)": 10
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447bb"
+  },
+  "Year": 2017,
+  "State": "OKLAHOMA",
+  "State ANSI": 40,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "167,419,000",
+  "CV (%)": 10.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447bc"
+  },
+  "Year": 2017,
+  "State": "OREGON",
+  "State ANSI": 41,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "77,986,000",
+  "CV (%)": 10
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447bd"
+  },
+  "Year": 2017,
+  "State": "OREGON",
+  "State ANSI": 41,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)",
+  "CV (%)": "(D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447be"
+  },
+  "Year": 2017,
+  "State": "PENNSYLVANIA",
+  "State ANSI": 42,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "619,460,000",
+  "CV (%)": 11.8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447bf"
+  },
+  "Year": 2017,
+  "State": "PENNSYLVANIA",
+  "State ANSI": 42,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "286,880,000",
+  "CV (%)": 11.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447c0"
+  },
+  "Year": 2017,
+  "State": "RHODE ISLAND",
+  "State ANSI": 44,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "258,000",
+  "CV (%)": 23.4
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447c1"
+  },
+  "Year": 2017,
+  "State": "SOUTH CAROLINA",
+  "State ANSI": 45,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "187,945,000",
+  "CV (%)": 16.6
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447c2"
+  },
+  "Year": 2017,
+  "State": "SOUTH CAROLINA",
+  "State ANSI": 45,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "130,646,000",
+  "CV (%)": 14.6
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447c3"
+  },
+  "Year": 2017,
+  "State": "SOUTH DAKOTA",
+  "State ANSI": 46,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "2,383,397,000",
+  "CV (%)": 4.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447c4"
+  },
+  "Year": 2017,
+  "State": "SOUTH DAKOTA",
+  "State ANSI": 46,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "2,126,083,000",
+  "CV (%)": 7.4
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447c5"
+  },
+  "Year": 2017,
+  "State": "TENNESSEE",
+  "State ANSI": 47,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "446,984,000",
+  "CV (%)": 5.4
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447c6"
+  },
+  "Year": 2017,
+  "State": "TENNESSEE",
+  "State ANSI": 47,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "747,731,000",
+  "CV (%)": 5.8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447c7"
+  },
+  "Year": 2017,
+  "State": "TEXAS",
+  "State ANSI": 48,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "1,176,894,000",
+  "CV (%)": 4.9
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447c8"
+  },
+  "Year": 2017,
+  "State": "TEXAS",
+  "State ANSI": 48,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "59,472,000",
+  "CV (%)": 5.1
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447c9"
+  },
+  "Year": 2017,
+  "State": "UTAH",
+  "State ANSI": 49,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "54,725,000",
+  "CV (%)": 25.9
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447ca"
+  },
+  "Year": 2017,
+  "State": "UTAH",
+  "State ANSI": 49,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "58,000",
+  "CV (%)": 76.4
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447cb"
+  },
+  "Year": 2017,
+  "State": "VERMONT",
+  "State ANSI": 50,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "15,404,000",
+  "CV (%)": 16.9
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447cc"
+  },
+  "Year": 2017,
+  "State": "VERMONT",
+  "State ANSI": 50,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "1,597,000",
+  "CV (%)": 13
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447cd"
+  },
+  "Year": 2017,
+  "State": "VIRGINIA",
+  "State ANSI": 51,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "228,797,000",
+  "CV (%)": 5.6
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447ce"
+  },
+  "Year": 2017,
+  "State": "VIRGINIA",
+  "State ANSI": 51,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "233,868,000",
+  "CV (%)": 5.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447cf"
+  },
+  "Year": 2017,
+  "State": "WASHINGTON",
+  "State ANSI": 53,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "166,645,000",
+  "CV (%)": 14.7
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447d0"
+  },
+  "Year": 2017,
+  "State": "WASHINGTON",
+  "State ANSI": 53,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)",
+  "CV (%)": "(D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447d1"
+  },
+  "Year": 2017,
+  "State": "WEST VIRGINIA",
+  "State ANSI": 54,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "21,589,000",
+  "CV (%)": 12.5
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447d2"
+  },
+  "Year": 2017,
+  "State": "WEST VIRGINIA",
+  "State ANSI": 54,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "13,516,000",
+  "CV (%)": 12.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447d3"
+  },
+  "Year": 2017,
+  "State": "WISCONSIN",
+  "State ANSI": 55,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "1,757,433,000",
+  "CV (%)": 4.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447d4"
+  },
+  "Year": 2017,
+  "State": "WISCONSIN",
+  "State ANSI": 55,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "938,273,000",
+  "CV (%)": 4.5
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447d5"
+  },
+  "Year": 2017,
+  "State": "WYOMING",
+  "State ANSI": 56,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "47,033,000",
+  "CV (%)": 9.6
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447d6"
+  },
+  "Year": 2017,
+  "State": "WYOMING",
+  "State ANSI": 56,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)",
+  "CV (%)": "(D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447d7"
+  },
+  "Year": 2012,
+  "State": "ALABAMA",
+  "State ANSI": 1,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "176,920,000",
+  "CV (%)": 3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447d8"
+  },
+  "Year": 2012,
+  "State": "ALABAMA",
+  "State ANSI": 1,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "183,808,000",
+  "CV (%)": 2.2
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447d9"
+  },
+  "Year": 2012,
+  "State": "ARIZONA",
+  "State ANSI": 4,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "74,434,000",
+  "CV (%)": 30.8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447da"
+  },
+  "Year": 2012,
+  "State": "ARKANSAS",
+  "State ANSI": 5,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "802,551,000",
+  "CV (%)": 7.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447db"
+  },
+  "Year": 2012,
+  "State": "ARKANSAS",
+  "State ANSI": 5,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "1,853,360,000",
+  "CV (%)": 7.7
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447dc"
+  },
+  "Year": 2012,
+  "State": "CALIFORNIA",
+  "State ANSI": 6,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "419,544,000",
+  "CV (%)": 3.1
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447dd"
+  },
+  "Year": 2012,
+  "State": "CALIFORNIA",
+  "State ANSI": 6,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)",
+  "CV (%)": "(D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447de"
+  },
+  "Year": 2012,
+  "State": "COLORADO",
+  "State ANSI": 8,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "851,640,000",
+  "CV (%)": 2.9
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447df"
+  },
+  "Year": 2012,
+  "State": "COLORADO",
+  "State ANSI": 8,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "7,134,000",
+  "CV (%)": 10.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447e0"
+  },
+  "Year": 2012,
+  "State": "CONNECTICUT",
+  "State ANSI": 9,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "14,907,000",
+  "CV (%)": 7.5
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447e1"
+  },
+  "Year": 2012,
+  "State": "CONNECTICUT",
+  "State ANSI": 9,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)",
+  "CV (%)": "(D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447e2"
+  },
+  "Year": 2012,
+  "State": "DELAWARE",
+  "State ANSI": 10,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "185,554,000",
+  "CV (%)": 8.7
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447e3"
+  },
+  "Year": 2012,
+  "State": "DELAWARE",
+  "State ANSI": 10,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "102,033,000",
+  "CV (%)": 11.1
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447e4"
+  },
+  "Year": 2012,
+  "State": "FLORIDA",
+  "State ANSI": 12,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "43,711,000",
+  "CV (%)": 10.9
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447e5"
+  },
+  "Year": 2012,
+  "State": "FLORIDA",
+  "State ANSI": 12,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "9,620,000",
+  "CV (%)": 7.8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447e6"
+  },
+  "Year": 2012,
+  "State": "GEORGIA",
+  "State ANSI": 13,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "377,266,000",
+  "CV (%)": 1.5
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447e7"
+  },
+  "Year": 2012,
+  "State": "GEORGIA",
+  "State ANSI": 13,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "102,796,000",
+  "CV (%)": 1.4
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447e8"
+  },
+  "Year": 2012,
+  "State": "HAWAII",
+  "State ANSI": 15,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": " (D)",
+  "CV (%)": "(D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447e9"
+  },
+  "Year": 2012,
+  "State": "HAWAII",
+  "State ANSI": 15,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)",
+  "CV (%)": "(D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447ea"
+  },
+  "Year": 2012,
+  "State": "IDAHO",
+  "State ANSI": 16,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "289,487,000",
+  "CV (%)": 5.1
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447eb"
+  },
+  "Year": 2012,
+  "State": "ILLINOIS",
+  "State ANSI": 17,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "8,258,574,000",
+  "CV (%)": 1.5
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447ec"
+  },
+  "Year": 2012,
+  "State": "ILLINOIS",
+  "State ANSI": 17,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "5,006,587,000",
+  "CV (%)": 1.6
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447ed"
+  },
+  "Year": 2012,
+  "State": "INDIANA",
+  "State ANSI": 18,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "4,071,150,000",
+  "CV (%)": 1
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447ee"
+  },
+  "Year": 2012,
+  "State": "INDIANA",
+  "State ANSI": 18,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "2,956,767,000",
+  "CV (%)": 1
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447ef"
+  },
+  "Year": 2012,
+  "State": "IOWA",
+  "State ANSI": 19,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "11,745,805,000",
+  "CV (%)": 5.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447f0"
+  },
+  "Year": 2012,
+  "State": "IOWA",
+  "State ANSI": 19,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "5,375,888,000",
+  "CV (%)": 3.7
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447f1"
+  },
+  "Year": 2012,
+  "State": "KANSAS",
+  "State ANSI": 20,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "2,296,517,000",
+  "CV (%)": 13.9
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447f2"
+  },
+  "Year": 2012,
+  "State": "KANSAS",
+  "State ANSI": 20,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "1,102,182,000",
+  "CV (%)": 15.2
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447f3"
+  },
+  "Year": 2012,
+  "State": "KENTUCKY",
+  "State ANSI": 21,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "693,575,000",
+  "CV (%)": 3.2
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447f4"
+  },
+  "Year": 2012,
+  "State": "KENTUCKY",
+  "State ANSI": 21,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "752,272,000",
+  "CV (%)": 2.6
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447f5"
+  },
+  "Year": 2012,
+  "State": "LOUISIANA",
+  "State ANSI": 22,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "592,772,000",
+  "CV (%)": 5.4
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447f6"
+  },
+  "Year": 2012,
+  "State": "LOUISIANA",
+  "State ANSI": 22,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "704,609,000",
+  "CV (%)": 5.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447f7"
+  },
+  "Year": 2012,
+  "State": "MAINE",
+  "State ANSI": 23,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": " (D)",
+  "CV (%)": "(D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447f8"
+  },
+  "Year": 2012,
+  "State": "MAINE",
+  "State ANSI": 23,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)",
+  "CV (%)": "(D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447f9"
+  },
+  "Year": 2012,
+  "State": "MARYLAND",
+  "State ANSI": 24,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "339,134,000",
+  "CV (%)": 3.8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447fa"
+  },
+  "Year": 2012,
+  "State": "MARYLAND",
+  "State ANSI": 24,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "268,581,000",
+  "CV (%)": 2.2
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447fb"
+  },
+  "Year": 2012,
+  "State": "MASSACHUSETTS",
+  "State ANSI": 25,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "6,869,000",
+  "CV (%)": 20
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447fc"
+  },
+  "Year": 2012,
+  "State": "MASSACHUSETTS",
+  "State ANSI": 25,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "451,000",
+  "CV (%)": 45.9
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447fd"
+  },
+  "Year": 2012,
+  "State": "MICHIGAN",
+  "State ANSI": 26,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "2,069,927,000",
+  "CV (%)": 1.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447fe"
+  },
+  "Year": 2012,
+  "State": "MICHIGAN",
+  "State ANSI": 26,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "1,092,453,000",
+  "CV (%)": 1.8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e22447ff"
+  },
+  "Year": 2012,
+  "State": "MINNESOTA",
+  "State ANSI": 27,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "7,645,912,000",
+  "CV (%)": 3.5
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244800"
+  },
+  "Year": 2012,
+  "State": "MINNESOTA",
+  "State ANSI": 27,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "3,830,936,000",
+  "CV (%)": 3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244801"
+  },
+  "Year": 2012,
+  "State": "MISSISSIPPI",
+  "State ANSI": 28,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "837,202,000",
+  "CV (%)": 6.7
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244802"
+  },
+  "Year": 2012,
+  "State": "MISSISSIPPI",
+  "State ANSI": 28,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "1,172,379,000",
+  "CV (%)": 2.7
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244803"
+  },
+  "Year": 2012,
+  "State": "MISSOURI",
+  "State ANSI": 29,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "1,519,966,000",
+  "CV (%)": 0.9
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244804"
+  },
+  "Year": 2012,
+  "State": "MISSOURI",
+  "State ANSI": 29,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "1,969,741,000",
+  "CV (%)": 0.9
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244805"
+  },
+  "Year": 2012,
+  "State": "MONTANA",
+  "State ANSI": 30,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "64,635,000",
+  "CV (%)": 3.9
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244806"
+  },
+  "Year": 2012,
+  "State": "MONTANA",
+  "State ANSI": 30,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)",
+  "CV (%)": "(D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244807"
+  },
+  "Year": 2012,
+  "State": "NEBRASKA",
+  "State ANSI": 31,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "7,551,145,000",
+  "CV (%)": 6.4
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244808"
+  },
+  "Year": 2012,
+  "State": "NEBRASKA",
+  "State ANSI": 31,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "2,516,218,000",
+  "CV (%)": 5.8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244809"
+  },
+  "Year": 2012,
+  "State": "NEVADA",
+  "State ANSI": 32,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "6,056,000",
+  "CV (%)": 27.2
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224480a"
+  },
+  "Year": 2012,
+  "State": "NEW HAMPSHIRE",
+  "State ANSI": 33,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "5,039,000",
+  "CV (%)": 4.1
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224480b"
+  },
+  "Year": 2012,
+  "State": "NEW JERSEY",
+  "State ANSI": 34,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "66,692,000",
+  "CV (%)": 2.2
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224480c"
+  },
+  "Year": 2012,
+  "State": "NEW JERSEY",
+  "State ANSI": 34,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "48,777,000",
+  "CV (%)": 2.4
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224480d"
+  },
+  "Year": 2012,
+  "State": "NEW MEXICO",
+  "State ANSI": 35,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "86,607,000",
+  "CV (%)": 3.7
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224480e"
+  },
+  "Year": 2012,
+  "State": "NEW MEXICO",
+  "State ANSI": 35,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)",
+  "CV (%)": "(D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224480f"
+  },
+  "Year": 2012,
+  "State": "NEW YORK",
+  "State ANSI": 36,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "620,793,000",
+  "CV (%)": 9.8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244810"
+  },
+  "Year": 2012,
+  "State": "NEW YORK",
+  "State ANSI": 36,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "171,289,000",
+  "CV (%)": 3.5
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244811"
+  },
+  "Year": 2012,
+  "State": "NORTH CAROLINA",
+  "State ANSI": 37,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "656,973,000",
+  "CV (%)": 1.9
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244812"
+  },
+  "Year": 2012,
+  "State": "NORTH CAROLINA",
+  "State ANSI": 37,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "799,769,000",
+  "CV (%)": 2
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244813"
+  },
+  "Year": 2012,
+  "State": "NORTH DAKOTA",
+  "State ANSI": 38,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "2,461,368,000",
+  "CV (%)": 4
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244814"
+  },
+  "Year": 2012,
+  "State": "NORTH DAKOTA",
+  "State ANSI": 38,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "1,968,362,000",
+  "CV (%)": 3.7
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244815"
+  },
+  "Year": 2012,
+  "State": "OHIO",
+  "State ANSI": 39,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "2,872,061,000",
+  "CV (%)": 2.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244816"
+  },
+  "Year": 2012,
+  "State": "OHIO",
+  "State ANSI": 39,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "2,703,658,000",
+  "CV (%)": 2.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244817"
+  },
+  "Year": 2012,
+  "State": "OKLAHOMA",
+  "State ANSI": 40,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "204,840,000",
+  "CV (%)": 12.9
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244818"
+  },
+  "Year": 2012,
+  "State": "OKLAHOMA",
+  "State ANSI": 40,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "48,338,000",
+  "CV (%)": 5
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244819"
+  },
+  "Year": 2012,
+  "State": "OREGON",
+  "State ANSI": 41,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "96,711,000",
+  "CV (%)": 3.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224481a"
+  },
+  "Year": 2012,
+  "State": "OREGON",
+  "State ANSI": 41,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)",
+  "CV (%)": "(D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224481b"
+  },
+  "Year": 2012,
+  "State": "PENNSYLVANIA",
+  "State ANSI": 42,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "800,827,000",
+  "CV (%)": 1.5
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224481c"
+  },
+  "Year": 2012,
+  "State": "PENNSYLVANIA",
+  "State ANSI": 42,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "309,882,000",
+  "CV (%)": 1.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224481d"
+  },
+  "Year": 2012,
+  "State": "RHODE ISLAND",
+  "State ANSI": 44,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": " (D)",
+  "CV (%)": "(D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224481e"
+  },
+  "Year": 2012,
+  "State": "RHODE ISLAND",
+  "State ANSI": 44,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)",
+  "CV (%)": "(D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224481f"
+  },
+  "Year": 2012,
+  "State": "SOUTH CAROLINA",
+  "State ANSI": 45,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "252,742,000",
+  "CV (%)": 3.8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244820"
+  },
+  "Year": 2012,
+  "State": "SOUTH CAROLINA",
+  "State ANSI": 45,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "162,034,000",
+  "CV (%)": 2.8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244821"
+  },
+  "Year": 2012,
+  "State": "SOUTH DAKOTA",
+  "State ANSI": 46,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "3,063,457,000",
+  "CV (%)": 2.7
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244822"
+  },
+  "Year": 2012,
+  "State": "SOUTH DAKOTA",
+  "State ANSI": 46,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "1,692,677,000",
+  "CV (%)": 2.7
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244823"
+  },
+  "Year": 2012,
+  "State": "TENNESSEE",
+  "State ANSI": 47,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "545,802,000",
+  "CV (%)": 5.1
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244824"
+  },
+  "Year": 2012,
+  "State": "TENNESSEE",
+  "State ANSI": 47,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "612,286,000",
+  "CV (%)": 1.1
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244825"
+  },
+  "Year": 2012,
+  "State": "TEXAS",
+  "State ANSI": 48,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "1,454,271,000",
+  "CV (%)": 6.7
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244826"
+  },
+  "Year": 2012,
+  "State": "TEXAS",
+  "State ANSI": 48,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "36,750,000",
+  "CV (%)": 8.2
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244827"
+  },
+  "Year": 2012,
+  "State": "UTAH",
+  "State ANSI": 49,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "62,574,000",
+  "CV (%)": 3.8
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244828"
+  },
+  "Year": 2012,
+  "State": "VERMONT",
+  "State ANSI": 50,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "23,486,000",
+  "CV (%)": 3.4
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244829"
+  },
+  "Year": 2012,
+  "State": "VERMONT",
+  "State ANSI": 50,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "2,488,000",
+  "CV (%)": 16.2
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224482a"
+  },
+  "Year": 2012,
+  "State": "VIRGINIA",
+  "State ANSI": 51,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "239,717,000",
+  "CV (%)": 2.2
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224482b"
+  },
+  "Year": 2012,
+  "State": "VIRGINIA",
+  "State ANSI": 51,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "286,085,000",
+  "CV (%)": 1.1
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224482c"
+  },
+  "Year": 2012,
+  "State": "WASHINGTON",
+  "State ANSI": 53,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "200,366,000",
+  "CV (%)": 7
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224482d"
+  },
+  "Year": 2012,
+  "State": "WASHINGTON",
+  "State ANSI": 53,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)",
+  "CV (%)": "(D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224482e"
+  },
+  "Year": 2012,
+  "State": "WEST VIRGINIA",
+  "State ANSI": 54,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "23,204,000",
+  "CV (%)": 3.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224482f"
+  },
+  "Year": 2012,
+  "State": "WEST VIRGINIA",
+  "State ANSI": 54,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "11,528,000",
+  "CV (%)": 6
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244830"
+  },
+  "Year": 2012,
+  "State": "WISCONSIN",
+  "State ANSI": 55,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "2,345,697,000",
+  "CV (%)": 1
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244831"
+  },
+  "Year": 2012,
+  "State": "WISCONSIN",
+  "State ANSI": 55,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "879,153,000",
+  "CV (%)": 1.1
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244832"
+  },
+  "Year": 2012,
+  "State": "WYOMING",
+  "State ANSI": 56,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "69,167,000",
+  "CV (%)": 6.3
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244833"
+  },
+  "Year": 2012,
+  "State": "WYOMING",
+  "State ANSI": 56,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)",
+  "CV (%)": "(D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244834"
+  },
+  "Year": 2007,
+  "State": "ALABAMA",
+  "State ANSI": 1,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "74,138,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244835"
+  },
+  "Year": 2007,
+  "State": "ALABAMA",
+  "State ANSI": 1,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "29,511,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244836"
+  },
+  "Year": 2007,
+  "State": "ARIZONA",
+  "State ANSI": 4,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "40,187,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244837"
+  },
+  "Year": 2007,
+  "State": "ARKANSAS",
+  "State ANSI": 5,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "356,930,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244838"
+  },
+  "Year": 2007,
+  "State": "ARKANSAS",
+  "State ANSI": 5,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "769,976,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244839"
+  },
+  "Year": 2007,
+  "State": "CALIFORNIA",
+  "State ANSI": 6,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "309,402,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224483a"
+  },
+  "Year": 2007,
+  "State": "CALIFORNIA",
+  "State ANSI": 6,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "326,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224483b"
+  },
+  "Year": 2007,
+  "State": "COLORADO",
+  "State ANSI": 8,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "487,703,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224483c"
+  },
+  "Year": 2007,
+  "State": "COLORADO",
+  "State ANSI": 8,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "3,261,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224483d"
+  },
+  "Year": 2007,
+  "State": "CONNECTICUT",
+  "State ANSI": 9,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "2,182,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224483e"
+  },
+  "Year": 2007,
+  "State": "CONNECTICUT",
+  "State ANSI": 9,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224483f"
+  },
+  "Year": 2007,
+  "State": "DELAWARE",
+  "State ANSI": 10,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "67,837,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244840"
+  },
+  "Year": 2007,
+  "State": "DELAWARE",
+  "State ANSI": 10,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "31,079,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244841"
+  },
+  "Year": 2007,
+  "State": "FLORIDA",
+  "State ANSI": 12,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "17,583,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244842"
+  },
+  "Year": 2007,
+  "State": "FLORIDA",
+  "State ANSI": 12,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "2,349,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244843"
+  },
+  "Year": 2007,
+  "State": "GEORGIA",
+  "State ANSI": 13,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "178,260,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244844"
+  },
+  "Year": 2007,
+  "State": "GEORGIA",
+  "State ANSI": 13,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "61,703,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244845"
+  },
+  "Year": 2007,
+  "State": "HAWAII",
+  "State ANSI": 15,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "19,353,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244846"
+  },
+  "Year": 2007,
+  "State": "IDAHO",
+  "State ANSI": 16,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "132,097,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244847"
+  },
+  "Year": 2007,
+  "State": "ILLINOIS",
+  "State ANSI": 17,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "7,073,343,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244848"
+  },
+  "Year": 2007,
+  "State": "ILLINOIS",
+  "State ANSI": 17,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "2,914,745,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244849"
+  },
+  "Year": 2007,
+  "State": "INDIANA",
+  "State ANSI": 18,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "3,114,306,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224484a"
+  },
+  "Year": 2007,
+  "State": "INDIANA",
+  "State ANSI": 18,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "1,772,861,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224484b"
+  },
+  "Year": 2007,
+  "State": "IOWA",
+  "State ANSI": 19,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "6,796,492,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224484c"
+  },
+  "Year": 2007,
+  "State": "IOWA",
+  "State ANSI": 19,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "3,306,656,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224484d"
+  },
+  "Year": 2007,
+  "State": "KANSAS",
+  "State ANSI": 20,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "1,697,262,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224484e"
+  },
+  "Year": 2007,
+  "State": "KANSAS",
+  "State ANSI": 20,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "688,080,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224484f"
+  },
+  "Year": 2007,
+  "State": "KENTUCKY",
+  "State ANSI": 21,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "553,127,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244850"
+  },
+  "Year": 2007,
+  "State": "KENTUCKY",
+  "State ANSI": 21,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "249,237,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244851"
+  },
+  "Year": 2007,
+  "State": "LOUISIANA",
+  "State ANSI": 22,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "337,958,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244852"
+  },
+  "Year": 2007,
+  "State": "LOUISIANA",
+  "State ANSI": 22,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "181,781,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244853"
+  },
+  "Year": 2007,
+  "State": "MAINE",
+  "State ANSI": 23,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "2,574,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244854"
+  },
+  "Year": 2007,
+  "State": "MAINE",
+  "State ANSI": 23,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244855"
+  },
+  "Year": 2007,
+  "State": "MARYLAND",
+  "State ANSI": 24,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "170,038,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244856"
+  },
+  "Year": 2007,
+  "State": "MARYLAND",
+  "State ANSI": 24,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "84,062,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244857"
+  },
+  "Year": 2007,
+  "State": "MASSACHUSETTS",
+  "State ANSI": 25,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "1,737,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244858"
+  },
+  "Year": 2007,
+  "State": "MASSACHUSETTS",
+  "State ANSI": 25,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244859"
+  },
+  "Year": 2007,
+  "State": "MICHIGAN",
+  "State ANSI": 26,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "915,597,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224485a"
+  },
+  "Year": 2007,
+  "State": "MICHIGAN",
+  "State ANSI": 26,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "540,606,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224485b"
+  },
+  "Year": 2007,
+  "State": "MINNESOTA",
+  "State ANSI": 27,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "3,316,564,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224485c"
+  },
+  "Year": 2007,
+  "State": "MINNESOTA",
+  "State ANSI": 27,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "2,017,731,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224485d"
+  },
+  "Year": 2007,
+  "State": "MISSISSIPPI",
+  "State ANSI": 28,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "430,983,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224485e"
+  },
+  "Year": 2007,
+  "State": "MISSISSIPPI",
+  "State ANSI": 28,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "405,236,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224485f"
+  },
+  "Year": 2007,
+  "State": "MISSOURI",
+  "State ANSI": 29,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "1,365,543,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244860"
+  },
+  "Year": 2007,
+  "State": "MISSOURI",
+  "State ANSI": 29,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "1,272,702,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244861"
+  },
+  "Year": 2007,
+  "State": "MONTANA",
+  "State ANSI": 30,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "28,168,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244862"
+  },
+  "Year": 2007,
+  "State": "MONTANA",
+  "State ANSI": 30,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244863"
+  },
+  "Year": 2007,
+  "State": "NEBRASKA",
+  "State ANSI": 31,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "4,427,937,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244864"
+  },
+  "Year": 2007,
+  "State": "NEBRASKA",
+  "State ANSI": 31,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "1,487,283,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244865"
+  },
+  "Year": 2007,
+  "State": "NEVADA",
+  "State ANSI": 32,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "2,392,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244866"
+  },
+  "Year": 2007,
+  "State": "NEW HAMPSHIRE",
+  "State ANSI": 33,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "837,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244867"
+  },
+  "Year": 2007,
+  "State": "NEW JERSEY",
+  "State ANSI": 34,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "32,981,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244868"
+  },
+  "Year": 2007,
+  "State": "NEW JERSEY",
+  "State ANSI": 34,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "19,279,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244869"
+  },
+  "Year": 2007,
+  "State": "NEW MEXICO",
+  "State ANSI": 35,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "70,667,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224486a"
+  },
+  "Year": 2007,
+  "State": "NEW MEXICO",
+  "State ANSI": 35,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "108,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224486b"
+  },
+  "Year": 2007,
+  "State": "NEW YORK",
+  "State ANSI": 36,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "210,169,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224486c"
+  },
+  "Year": 2007,
+  "State": "NEW YORK",
+  "State ANSI": 36,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "61,789,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224486d"
+  },
+  "Year": 2007,
+  "State": "NORTH CAROLINA",
+  "State ANSI": 37,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "347,995,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224486e"
+  },
+  "Year": 2007,
+  "State": "NORTH CAROLINA",
+  "State ANSI": 37,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "246,716,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224486f"
+  },
+  "Year": 2007,
+  "State": "NORTH DAKOTA",
+  "State ANSI": 38,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "821,072,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244870"
+  },
+  "Year": 2007,
+  "State": "NORTH DAKOTA",
+  "State ANSI": 38,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "780,507,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244871"
+  },
+  "Year": 2007,
+  "State": "OHIO",
+  "State ANSI": 39,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "1,643,456,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244872"
+  },
+  "Year": 2007,
+  "State": "OHIO",
+  "State ANSI": 39,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "1,495,598,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244873"
+  },
+  "Year": 2007,
+  "State": "OKLAHOMA",
+  "State ANSI": 40,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "149,778,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244874"
+  },
+  "Year": 2007,
+  "State": "OKLAHOMA",
+  "State ANSI": 40,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "36,486,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244875"
+  },
+  "Year": 2007,
+  "State": "OREGON",
+  "State ANSI": 41,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "37,084,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244876"
+  },
+  "Year": 2007,
+  "State": "OREGON",
+  "State ANSI": 41,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244877"
+  },
+  "Year": 2007,
+  "State": "PENNSYLVANIA",
+  "State ANSI": 42,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "319,930,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244878"
+  },
+  "Year": 2007,
+  "State": "PENNSYLVANIA",
+  "State ANSI": 42,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "122,103,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244879"
+  },
+  "Year": 2007,
+  "State": "RHODE ISLAND",
+  "State ANSI": 44,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "93,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224487a"
+  },
+  "Year": 2007,
+  "State": "SOUTH CAROLINA",
+  "State ANSI": 45,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "129,332,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224487b"
+  },
+  "Year": 2007,
+  "State": "SOUTH CAROLINA",
+  "State ANSI": 45,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "64,675,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224487c"
+  },
+  "Year": 2007,
+  "State": "SOUTH DAKOTA",
+  "State ANSI": 46,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "1,412,488,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224487d"
+  },
+  "Year": 2007,
+  "State": "SOUTH DAKOTA",
+  "State ANSI": 46,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "949,942,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224487e"
+  },
+  "Year": 2007,
+  "State": "TENNESSEE",
+  "State ANSI": 47,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "279,356,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224487f"
+  },
+  "Year": 2007,
+  "State": "TENNESSEE",
+  "State ANSI": 47,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "164,911,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244880"
+  },
+  "Year": 2007,
+  "State": "TEXAS",
+  "State ANSI": 48,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "1,089,321,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244881"
+  },
+  "Year": 2007,
+  "State": "TEXAS",
+  "State ANSI": 48,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "29,210,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244882"
+  },
+  "Year": 2007,
+  "State": "UTAH",
+  "State ANSI": 49,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "21,199,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244883"
+  },
+  "Year": 2007,
+  "State": "VERMONT",
+  "State ANSI": 50,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "4,890,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244884"
+  },
+  "Year": 2007,
+  "State": "VERMONT",
+  "State ANSI": 50,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "401,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244885"
+  },
+  "Year": 2007,
+  "State": "VIRGINIA",
+  "State ANSI": 51,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "115,268,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244886"
+  },
+  "Year": 2007,
+  "State": "VIRGINIA",
+  "State ANSI": 51,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "97,961,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244887"
+  },
+  "Year": 2007,
+  "State": "WASHINGTON",
+  "State ANSI": 53,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "134,673,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244888"
+  },
+  "Year": 2007,
+  "State": "WASHINGTON",
+  "State ANSI": 53,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "642,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e2244889"
+  },
+  "Year": 2007,
+  "State": "WEST VIRGINIA",
+  "State ANSI": 54,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "6,549,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224488a"
+  },
+  "Year": 2007,
+  "State": "WEST VIRGINIA",
+  "State ANSI": 54,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "3,399,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224488b"
+  },
+  "Year": 2007,
+  "State": "WISCONSIN",
+  "State ANSI": 55,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "1,136,931,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224488c"
+  },
+  "Year": 2007,
+  "State": "WISCONSIN",
+  "State ANSI": 55,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": "390,672,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224488d"
+  },
+  "Year": 2007,
+  "State": "WYOMING",
+  "State ANSI": 56,
+  "Commodity": "CORN",
+  "Data Item": "CORN - SALES, MEASURED IN $",
+  "Value": "25,840,000"
+},{
+  "_id": {
+    "$oid": "642ba29646154063e224488e"
+  },
+  "Year": 2007,
+  "State": "WYOMING",
+  "State ANSI": 56,
+  "Commodity": "SOYBEANS",
+  "Data Item": "SOYBEANS - SALES, MEASURED IN $",
+  "Value": " (D)"
+}]

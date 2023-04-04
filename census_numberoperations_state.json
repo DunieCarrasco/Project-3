@@ -1,0 +1,2351 @@
+[{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a63"
+  },
+  "Year": 2017,
+  "State": "ALABAMA",
+  "State ANSI": 1,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "40,592",
+  "CV (%)": 3.8
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a64"
+  },
+  "Year": 2017,
+  "State": "ALASKA",
+  "State ANSI": 2,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": 990,
+  "CV (%)": 1.3
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a65"
+  },
+  "Year": 2017,
+  "State": "ARIZONA",
+  "State ANSI": 4,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "19,086",
+  "CV (%)": 13.8
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a66"
+  },
+  "Year": 2017,
+  "State": "ARKANSAS",
+  "State ANSI": 5,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "42,625",
+  "CV (%)": 3.9
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a67"
+  },
+  "Year": 2017,
+  "State": "CALIFORNIA",
+  "State ANSI": 6,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "70,521",
+  "CV (%)": 2.7
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a68"
+  },
+  "Year": 2017,
+  "State": "COLORADO",
+  "State ANSI": 8,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "38,893",
+  "CV (%)": 8.2
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a69"
+  },
+  "Year": 2017,
+  "State": "CONNECTICUT",
+  "State ANSI": 9,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "5,521",
+  "CV (%)": 8.4
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a6a"
+  },
+  "Year": 2017,
+  "State": "DELAWARE",
+  "State ANSI": 10,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "2,302",
+  "CV (%)": 8.9
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a6b"
+  },
+  "Year": 2017,
+  "State": "FLORIDA",
+  "State ANSI": 12,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "47,590",
+  "CV (%)": 3
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a6c"
+  },
+  "Year": 2017,
+  "State": "GEORGIA",
+  "State ANSI": 13,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "42,439",
+  "CV (%)": 2.9
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a6d"
+  },
+  "Year": 2017,
+  "State": "HAWAII",
+  "State ANSI": 15,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "7,328",
+  "CV (%)": 7.6
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a6e"
+  },
+  "Year": 2017,
+  "State": "IDAHO",
+  "State ANSI": 16,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "24,996",
+  "CV (%)": 5.2
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a6f"
+  },
+  "Year": 2017,
+  "State": "ILLINOIS",
+  "State ANSI": 17,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "72,651",
+  "CV (%)": 2.6
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a70"
+  },
+  "Year": 2017,
+  "State": "INDIANA",
+  "State ANSI": 18,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "56,649",
+  "CV (%)": 3.2
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a71"
+  },
+  "Year": 2017,
+  "State": "IOWA",
+  "State ANSI": 19,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "86,104",
+  "CV (%)": 1.9
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a72"
+  },
+  "Year": 2017,
+  "State": "KANSAS",
+  "State ANSI": 20,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "58,569",
+  "CV (%)": 4.7
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a73"
+  },
+  "Year": 2017,
+  "State": "KENTUCKY",
+  "State ANSI": 21,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "75,966",
+  "CV (%)": 4.5
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a74"
+  },
+  "Year": 2017,
+  "State": "LOUISIANA",
+  "State ANSI": 22,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "27,386",
+  "CV (%)": 5
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a75"
+  },
+  "Year": 2017,
+  "State": "MAINE",
+  "State ANSI": 23,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "7,600",
+  "CV (%)": 14
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a76"
+  },
+  "Year": 2017,
+  "State": "MARYLAND",
+  "State ANSI": 24,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "12,429",
+  "CV (%)": 8.9
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a77"
+  },
+  "Year": 2017,
+  "State": "MASSACHUSETTS",
+  "State ANSI": 25,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "7,241",
+  "CV (%)": 10
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a78"
+  },
+  "Year": 2017,
+  "State": "MICHIGAN",
+  "State ANSI": 26,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "47,641",
+  "CV (%)": 4.8
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a79"
+  },
+  "Year": 2017,
+  "State": "MINNESOTA",
+  "State ANSI": 27,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "68,822",
+  "CV (%)": 1.7
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a7a"
+  },
+  "Year": 2017,
+  "State": "MISSISSIPPI",
+  "State ANSI": 28,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "34,988",
+  "CV (%)": 6.1
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a7b"
+  },
+  "Year": 2017,
+  "State": "MISSOURI",
+  "State ANSI": 29,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "95,320",
+  "CV (%)": 3.5
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a7c"
+  },
+  "Year": 2017,
+  "State": "MONTANA",
+  "State ANSI": 30,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "27,048",
+  "CV (%)": 7.6
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a7d"
+  },
+  "Year": 2017,
+  "State": "NEBRASKA",
+  "State ANSI": 31,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "46,332",
+  "CV (%)": 3
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a7e"
+  },
+  "Year": 2017,
+  "State": "NEVADA",
+  "State ANSI": 32,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "3,423",
+  "CV (%)": 7.7
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a7f"
+  },
+  "Year": 2017,
+  "State": "NEW HAMPSHIRE",
+  "State ANSI": 33,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "4,123",
+  "CV (%)": 8.5
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a80"
+  },
+  "Year": 2017,
+  "State": "NEW JERSEY",
+  "State ANSI": 34,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "9,883",
+  "CV (%)": 10.9
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a81"
+  },
+  "Year": 2017,
+  "State": "NEW MEXICO",
+  "State ANSI": 35,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "25,044",
+  "CV (%)": 9.4
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a82"
+  },
+  "Year": 2017,
+  "State": "NEW YORK",
+  "State ANSI": 36,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "33,438",
+  "CV (%)": 3.8
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a83"
+  },
+  "Year": 2017,
+  "State": "NORTH CAROLINA",
+  "State ANSI": 37,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "46,418",
+  "CV (%)": 3.5
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a84"
+  },
+  "Year": 2017,
+  "State": "NORTH DAKOTA",
+  "State ANSI": 38,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "26,364",
+  "CV (%)": 3
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a85"
+  },
+  "Year": 2017,
+  "State": "OHIO",
+  "State ANSI": 39,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "77,805",
+  "CV (%)": 3.1
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a86"
+  },
+  "Year": 2017,
+  "State": "OKLAHOMA",
+  "State ANSI": 40,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "78,531",
+  "CV (%)": 4.4
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a87"
+  },
+  "Year": 2017,
+  "State": "OREGON",
+  "State ANSI": 41,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "37,616",
+  "CV (%)": 7.1
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a88"
+  },
+  "Year": 2017,
+  "State": "PENNSYLVANIA",
+  "State ANSI": 42,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "53,157",
+  "CV (%)": 3.9
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a89"
+  },
+  "Year": 2017,
+  "State": "RHODE ISLAND",
+  "State ANSI": 44,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "1,043",
+  "CV (%)": 17.9
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a8a"
+  },
+  "Year": 2017,
+  "State": "SOUTH CAROLINA",
+  "State ANSI": 45,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "24,791",
+  "CV (%)": 5.4
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a8b"
+  },
+  "Year": 2017,
+  "State": "SOUTH DAKOTA",
+  "State ANSI": 46,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "29,968",
+  "CV (%)": 2.4
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a8c"
+  },
+  "Year": 2017,
+  "State": "TENNESSEE",
+  "State ANSI": 47,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "69,983",
+  "CV (%)": 3
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a8d"
+  },
+  "Year": 2017,
+  "State": "TEXAS",
+  "State ANSI": 48,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "248,416",
+  "CV (%)": 3.5
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a8e"
+  },
+  "Year": 2017,
+  "State": "UTAH",
+  "State ANSI": 49,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "18,409",
+  "CV (%)": 9.7
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a8f"
+  },
+  "Year": 2017,
+  "State": "VERMONT",
+  "State ANSI": 50,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "6,808",
+  "CV (%)": 8.4
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a90"
+  },
+  "Year": 2017,
+  "State": "VIRGINIA",
+  "State ANSI": 51,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "43,225",
+  "CV (%)": 2.4
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a91"
+  },
+  "Year": 2017,
+  "State": "WASHINGTON",
+  "State ANSI": 53,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "35,793",
+  "CV (%)": 5.6
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a92"
+  },
+  "Year": 2017,
+  "State": "WEST VIRGINIA",
+  "State ANSI": 54,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "23,622",
+  "CV (%)": 5.5
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a93"
+  },
+  "Year": 2017,
+  "State": "WISCONSIN",
+  "State ANSI": 55,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "64,793",
+  "CV (%)": 2.6
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a94"
+  },
+  "Year": 2017,
+  "State": "WYOMING",
+  "State ANSI": 56,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "11,938",
+  "CV (%)": 7.7
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a95"
+  },
+  "Year": 2012,
+  "State": "ALABAMA",
+  "State ANSI": 1,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "43,223",
+  "CV (%)": 4.1
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a96"
+  },
+  "Year": 2012,
+  "State": "ALASKA",
+  "State ANSI": 2,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": 762,
+  "CV (%)": 1.8
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a97"
+  },
+  "Year": 2012,
+  "State": "ARIZONA",
+  "State ANSI": 4,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "20,005",
+  "CV (%)": 24.3
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a98"
+  },
+  "Year": 2012,
+  "State": "ARKANSAS",
+  "State ANSI": 5,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "45,071",
+  "CV (%)": 6.1
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a99"
+  },
+  "Year": 2012,
+  "State": "CALIFORNIA",
+  "State ANSI": 6,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "77,857",
+  "CV (%)": 10
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a9a"
+  },
+  "Year": 2012,
+  "State": "COLORADO",
+  "State ANSI": 8,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "36,180",
+  "CV (%)": 3.4
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a9b"
+  },
+  "Year": 2012,
+  "State": "CONNECTICUT",
+  "State ANSI": 9,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "5,977",
+  "CV (%)": 19.1
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a9c"
+  },
+  "Year": 2012,
+  "State": "DELAWARE",
+  "State ANSI": 10,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "2,451",
+  "CV (%)": 30.1
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a9d"
+  },
+  "Year": 2012,
+  "State": "FLORIDA",
+  "State ANSI": 12,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "47,740",
+  "CV (%)": 11.3
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a9e"
+  },
+  "Year": 2012,
+  "State": "GEORGIA",
+  "State ANSI": 13,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "42,257",
+  "CV (%)": 3.7
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240a9f"
+  },
+  "Year": 2012,
+  "State": "HAWAII",
+  "State ANSI": 15,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "7,000",
+  "CV (%)": 11.4
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aa0"
+  },
+  "Year": 2012,
+  "State": "IDAHO",
+  "State ANSI": 16,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "24,816",
+  "CV (%)": 7.9
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aa1"
+  },
+  "Year": 2012,
+  "State": "ILLINOIS",
+  "State ANSI": 17,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "75,087",
+  "CV (%)": 3.3
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aa2"
+  },
+  "Year": 2012,
+  "State": "INDIANA",
+  "State ANSI": 18,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "58,695",
+  "CV (%)": 4
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aa3"
+  },
+  "Year": 2012,
+  "State": "IOWA",
+  "State ANSI": 19,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "88,637",
+  "CV (%)": 2.7
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aa4"
+  },
+  "Year": 2012,
+  "State": "KANSAS",
+  "State ANSI": 20,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "61,773",
+  "CV (%)": 5.4
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aa5"
+  },
+  "Year": 2012,
+  "State": "KENTUCKY",
+  "State ANSI": 21,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "77,064",
+  "CV (%)": 3.7
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aa6"
+  },
+  "Year": 2012,
+  "State": "LOUISIANA",
+  "State ANSI": 22,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "28,093",
+  "CV (%)": 14.9
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aa7"
+  },
+  "Year": 2012,
+  "State": "MAINE",
+  "State ANSI": 23,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "8,173",
+  "CV (%)": 14.3
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aa8"
+  },
+  "Year": 2012,
+  "State": "MARYLAND",
+  "State ANSI": 24,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "12,256",
+  "CV (%)": 10.5
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aa9"
+  },
+  "Year": 2012,
+  "State": "MASSACHUSETTS",
+  "State ANSI": 25,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "7,755",
+  "CV (%)": 17.8
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aaa"
+  },
+  "Year": 2012,
+  "State": "MICHIGAN",
+  "State ANSI": 26,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "52,194",
+  "CV (%)": 4.2
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aab"
+  },
+  "Year": 2012,
+  "State": "MINNESOTA",
+  "State ANSI": 27,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "74,542",
+  "CV (%)": 4.2
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aac"
+  },
+  "Year": 2012,
+  "State": "MISSISSIPPI",
+  "State ANSI": 28,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "38,076",
+  "CV (%)": 4
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aad"
+  },
+  "Year": 2012,
+  "State": "MISSOURI",
+  "State ANSI": 29,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "99,171",
+  "CV (%)": 2
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aae"
+  },
+  "Year": 2012,
+  "State": "MONTANA",
+  "State ANSI": 30,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "28,008",
+  "CV (%)": 6.5
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aaf"
+  },
+  "Year": 2012,
+  "State": "NEBRASKA",
+  "State ANSI": 31,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "49,969",
+  "CV (%)": 5.8
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ab0"
+  },
+  "Year": 2012,
+  "State": "NEVADA",
+  "State ANSI": 32,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "4,137",
+  "CV (%)": 33.5
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ab1"
+  },
+  "Year": 2012,
+  "State": "NEW HAMPSHIRE",
+  "State ANSI": 33,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "4,391",
+  "CV (%)": 13.2
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ab2"
+  },
+  "Year": 2012,
+  "State": "NEW JERSEY",
+  "State ANSI": 34,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "9,071",
+  "CV (%)": 3.9
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ab3"
+  },
+  "Year": 2012,
+  "State": "NEW MEXICO",
+  "State ANSI": 35,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "24,721",
+  "CV (%)": 14.1
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ab4"
+  },
+  "Year": 2012,
+  "State": "NEW YORK",
+  "State ANSI": 36,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "35,537",
+  "CV (%)": 9.5
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ab5"
+  },
+  "Year": 2012,
+  "State": "NORTH CAROLINA",
+  "State ANSI": 37,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "50,218",
+  "CV (%)": 8.2
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ab6"
+  },
+  "Year": 2012,
+  "State": "NORTH DAKOTA",
+  "State ANSI": 38,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "30,961",
+  "CV (%)": 9.1
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ab7"
+  },
+  "Year": 2012,
+  "State": "OHIO",
+  "State ANSI": 39,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "75,462",
+  "CV (%)": 6.2
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ab8"
+  },
+  "Year": 2012,
+  "State": "OKLAHOMA",
+  "State ANSI": 40,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "80,245",
+  "CV (%)": 3.3
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ab9"
+  },
+  "Year": 2012,
+  "State": "OREGON",
+  "State ANSI": 41,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "35,439",
+  "CV (%)": 4.3
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aba"
+  },
+  "Year": 2012,
+  "State": "PENNSYLVANIA",
+  "State ANSI": 42,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "59,309",
+  "CV (%)": 3.8
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240abb"
+  },
+  "Year": 2012,
+  "State": "RHODE ISLAND",
+  "State ANSI": 44,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "1,243",
+  "CV (%)": 19
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240abc"
+  },
+  "Year": 2012,
+  "State": "SOUTH CAROLINA",
+  "State ANSI": 45,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "25,266",
+  "CV (%)": 6.5
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240abd"
+  },
+  "Year": 2012,
+  "State": "SOUTH DAKOTA",
+  "State ANSI": 46,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "31,989",
+  "CV (%)": 5.2
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240abe"
+  },
+  "Year": 2012,
+  "State": "TENNESSEE",
+  "State ANSI": 47,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "68,050",
+  "CV (%)": 1.9
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240abf"
+  },
+  "Year": 2012,
+  "State": "TEXAS",
+  "State ANSI": 48,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "248,809",
+  "CV (%)": 3
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ac0"
+  },
+  "Year": 2012,
+  "State": "UTAH",
+  "State ANSI": 49,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "18,027",
+  "CV (%)": 9.8
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ac1"
+  },
+  "Year": 2012,
+  "State": "VERMONT",
+  "State ANSI": 50,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "7,338",
+  "CV (%)": 12.6
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ac2"
+  },
+  "Year": 2012,
+  "State": "VIRGINIA",
+  "State ANSI": 51,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "46,030",
+  "CV (%)": 2
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ac3"
+  },
+  "Year": 2012,
+  "State": "WASHINGTON",
+  "State ANSI": 53,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "37,249",
+  "CV (%)": 9.5
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ac4"
+  },
+  "Year": 2012,
+  "State": "WEST VIRGINIA",
+  "State ANSI": 54,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "21,489",
+  "CV (%)": 4.9
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ac5"
+  },
+  "Year": 2012,
+  "State": "WISCONSIN",
+  "State ANSI": 55,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "69,754",
+  "CV (%)": 3.6
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ac6"
+  },
+  "Year": 2012,
+  "State": "WYOMING",
+  "State ANSI": 56,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "11,736",
+  "CV (%)": 15.6
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ac7"
+  },
+  "Year": 2007,
+  "State": "ALABAMA",
+  "State ANSI": 1,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "48,753"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ac8"
+  },
+  "Year": 2007,
+  "State": "ALASKA",
+  "State ANSI": 2,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": 686
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ac9"
+  },
+  "Year": 2007,
+  "State": "ARIZONA",
+  "State ANSI": 4,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "15,637"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aca"
+  },
+  "Year": 2007,
+  "State": "ARKANSAS",
+  "State ANSI": 5,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "49,346"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240acb"
+  },
+  "Year": 2007,
+  "State": "CALIFORNIA",
+  "State ANSI": 6,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "81,033"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240acc"
+  },
+  "Year": 2007,
+  "State": "COLORADO",
+  "State ANSI": 8,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "37,054"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240acd"
+  },
+  "Year": 2007,
+  "State": "CONNECTICUT",
+  "State ANSI": 9,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "4,916"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ace"
+  },
+  "Year": 2007,
+  "State": "DELAWARE",
+  "State ANSI": 10,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "2,546"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240acf"
+  },
+  "Year": 2007,
+  "State": "FLORIDA",
+  "State ANSI": 12,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "47,463"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ad0"
+  },
+  "Year": 2007,
+  "State": "GEORGIA",
+  "State ANSI": 13,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "47,846"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ad1"
+  },
+  "Year": 2007,
+  "State": "HAWAII",
+  "State ANSI": 15,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "7,521"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ad2"
+  },
+  "Year": 2007,
+  "State": "IDAHO",
+  "State ANSI": 16,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "25,349"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ad3"
+  },
+  "Year": 2007,
+  "State": "ILLINOIS",
+  "State ANSI": 17,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "76,860"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ad4"
+  },
+  "Year": 2007,
+  "State": "INDIANA",
+  "State ANSI": 18,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "60,938"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ad5"
+  },
+  "Year": 2007,
+  "State": "IOWA",
+  "State ANSI": 19,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "92,856"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ad6"
+  },
+  "Year": 2007,
+  "State": "KANSAS",
+  "State ANSI": 20,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "65,531"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ad7"
+  },
+  "Year": 2007,
+  "State": "KENTUCKY",
+  "State ANSI": 21,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "85,260"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ad8"
+  },
+  "Year": 2007,
+  "State": "LOUISIANA",
+  "State ANSI": 22,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "30,106"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ad9"
+  },
+  "Year": 2007,
+  "State": "MAINE",
+  "State ANSI": 23,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "8,136"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ada"
+  },
+  "Year": 2007,
+  "State": "MARYLAND",
+  "State ANSI": 24,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "12,834"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240adb"
+  },
+  "Year": 2007,
+  "State": "MASSACHUSETTS",
+  "State ANSI": 25,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "7,691"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240adc"
+  },
+  "Year": 2007,
+  "State": "MICHIGAN",
+  "State ANSI": 26,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "56,014"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240add"
+  },
+  "Year": 2007,
+  "State": "MINNESOTA",
+  "State ANSI": 27,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "80,992"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ade"
+  },
+  "Year": 2007,
+  "State": "MISSISSIPPI",
+  "State ANSI": 28,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "41,959"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240adf"
+  },
+  "Year": 2007,
+  "State": "MISSOURI",
+  "State ANSI": 29,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "107,825"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ae0"
+  },
+  "Year": 2007,
+  "State": "MONTANA",
+  "State ANSI": 30,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "29,524"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ae1"
+  },
+  "Year": 2007,
+  "State": "NEBRASKA",
+  "State ANSI": 31,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "47,712"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ae2"
+  },
+  "Year": 2007,
+  "State": "NEVADA",
+  "State ANSI": 32,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "3,131"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ae3"
+  },
+  "Year": 2007,
+  "State": "NEW HAMPSHIRE",
+  "State ANSI": 33,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "4,166"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ae4"
+  },
+  "Year": 2007,
+  "State": "NEW JERSEY",
+  "State ANSI": 34,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "10,327"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ae5"
+  },
+  "Year": 2007,
+  "State": "NEW MEXICO",
+  "State ANSI": 35,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "20,930"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ae6"
+  },
+  "Year": 2007,
+  "State": "NEW YORK",
+  "State ANSI": 36,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "36,352"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ae7"
+  },
+  "Year": 2007,
+  "State": "NORTH CAROLINA",
+  "State ANSI": 37,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "52,913"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ae8"
+  },
+  "Year": 2007,
+  "State": "NORTH DAKOTA",
+  "State ANSI": 38,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "31,970"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240ae9"
+  },
+  "Year": 2007,
+  "State": "OHIO",
+  "State ANSI": 39,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "75,861"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aea"
+  },
+  "Year": 2007,
+  "State": "OKLAHOMA",
+  "State ANSI": 40,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "86,565"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aeb"
+  },
+  "Year": 2007,
+  "State": "OREGON",
+  "State ANSI": 41,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "38,553"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aec"
+  },
+  "Year": 2007,
+  "State": "PENNSYLVANIA",
+  "State ANSI": 42,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "63,163"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aed"
+  },
+  "Year": 2007,
+  "State": "RHODE ISLAND",
+  "State ANSI": 44,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "1,219"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aee"
+  },
+  "Year": 2007,
+  "State": "SOUTH CAROLINA",
+  "State ANSI": 45,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "25,867"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aef"
+  },
+  "Year": 2007,
+  "State": "SOUTH DAKOTA",
+  "State ANSI": 46,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "31,169"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240af0"
+  },
+  "Year": 2007,
+  "State": "TENNESSEE",
+  "State ANSI": 47,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "79,280"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240af1"
+  },
+  "Year": 2007,
+  "State": "TEXAS",
+  "State ANSI": 48,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "247,437"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240af2"
+  },
+  "Year": 2007,
+  "State": "UTAH",
+  "State ANSI": 49,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "16,700"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240af3"
+  },
+  "Year": 2007,
+  "State": "VERMONT",
+  "State ANSI": 50,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "6,984"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240af4"
+  },
+  "Year": 2007,
+  "State": "VIRGINIA",
+  "State ANSI": 51,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "47,383"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240af5"
+  },
+  "Year": 2007,
+  "State": "WASHINGTON",
+  "State ANSI": 53,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "39,284"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240af6"
+  },
+  "Year": 2007,
+  "State": "WEST VIRGINIA",
+  "State ANSI": 54,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "23,618"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240af7"
+  },
+  "Year": 2007,
+  "State": "WISCONSIN",
+  "State ANSI": 55,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "78,463"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240af8"
+  },
+  "Year": 2007,
+  "State": "WYOMING",
+  "State ANSI": 56,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "11,069"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240af9"
+  },
+  "Year": 2002,
+  "State": "ALABAMA",
+  "State ANSI": 1,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "45,126"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240afa"
+  },
+  "Year": 2002,
+  "State": "ALASKA",
+  "State ANSI": 2,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": 609
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240afb"
+  },
+  "Year": 2002,
+  "State": "ARIZONA",
+  "State ANSI": 4,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "7,294"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240afc"
+  },
+  "Year": 2002,
+  "State": "ARKANSAS",
+  "State ANSI": 5,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "47,483"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240afd"
+  },
+  "Year": 2002,
+  "State": "CALIFORNIA",
+  "State ANSI": 6,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "79,631"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240afe"
+  },
+  "Year": 2002,
+  "State": "COLORADO",
+  "State ANSI": 8,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "31,369"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240aff"
+  },
+  "Year": 2002,
+  "State": "CONNECTICUT",
+  "State ANSI": 9,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "4,191"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b00"
+  },
+  "Year": 2002,
+  "State": "DELAWARE",
+  "State ANSI": 10,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "2,391"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b01"
+  },
+  "Year": 2002,
+  "State": "FLORIDA",
+  "State ANSI": 12,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "44,081"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b02"
+  },
+  "Year": 2002,
+  "State": "GEORGIA",
+  "State ANSI": 13,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "49,311"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b03"
+  },
+  "Year": 2002,
+  "State": "HAWAII",
+  "State ANSI": 15,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "5,398"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b04"
+  },
+  "Year": 2002,
+  "State": "IDAHO",
+  "State ANSI": 16,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "25,017"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b05"
+  },
+  "Year": 2002,
+  "State": "ILLINOIS",
+  "State ANSI": 17,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "73,027"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b06"
+  },
+  "Year": 2002,
+  "State": "INDIANA",
+  "State ANSI": 18,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "60,296"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b07"
+  },
+  "Year": 2002,
+  "State": "IOWA",
+  "State ANSI": 19,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "90,655"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b08"
+  },
+  "Year": 2002,
+  "State": "KANSAS",
+  "State ANSI": 20,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "64,414"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b09"
+  },
+  "Year": 2002,
+  "State": "KENTUCKY",
+  "State ANSI": 21,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "86,541"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b0a"
+  },
+  "Year": 2002,
+  "State": "LOUISIANA",
+  "State ANSI": 22,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "27,413"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b0b"
+  },
+  "Year": 2002,
+  "State": "MAINE",
+  "State ANSI": 23,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "7,196"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b0c"
+  },
+  "Year": 2002,
+  "State": "MARYLAND",
+  "State ANSI": 24,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "12,198"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b0d"
+  },
+  "Year": 2002,
+  "State": "MASSACHUSETTS",
+  "State ANSI": 25,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "6,075"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b0e"
+  },
+  "Year": 2002,
+  "State": "MICHIGAN",
+  "State ANSI": 26,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "53,315"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b0f"
+  },
+  "Year": 2002,
+  "State": "MINNESOTA",
+  "State ANSI": 27,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "80,839"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b10"
+  },
+  "Year": 2002,
+  "State": "MISSISSIPPI",
+  "State ANSI": 28,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "42,186"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b11"
+  },
+  "Year": 2002,
+  "State": "MISSOURI",
+  "State ANSI": 29,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "106,797"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b12"
+  },
+  "Year": 2002,
+  "State": "MONTANA",
+  "State ANSI": 30,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "27,870"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b13"
+  },
+  "Year": 2002,
+  "State": "NEBRASKA",
+  "State ANSI": 31,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "49,355"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b14"
+  },
+  "Year": 2002,
+  "State": "NEVADA",
+  "State ANSI": 32,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "2,989"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b15"
+  },
+  "Year": 2002,
+  "State": "NEW HAMPSHIRE",
+  "State ANSI": 33,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "3,363"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b16"
+  },
+  "Year": 2002,
+  "State": "NEW JERSEY",
+  "State ANSI": 34,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "9,924"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b17"
+  },
+  "Year": 2002,
+  "State": "NEW MEXICO",
+  "State ANSI": 35,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "15,170"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b18"
+  },
+  "Year": 2002,
+  "State": "NEW YORK",
+  "State ANSI": 36,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "37,255"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b19"
+  },
+  "Year": 2002,
+  "State": "NORTH CAROLINA",
+  "State ANSI": 37,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "53,930"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b1a"
+  },
+  "Year": 2002,
+  "State": "NORTH DAKOTA",
+  "State ANSI": 38,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "30,619"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b1b"
+  },
+  "Year": 2002,
+  "State": "OHIO",
+  "State ANSI": 39,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "77,797"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b1c"
+  },
+  "Year": 2002,
+  "State": "OKLAHOMA",
+  "State ANSI": 40,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "83,300"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b1d"
+  },
+  "Year": 2002,
+  "State": "OREGON",
+  "State ANSI": 41,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "40,033"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b1e"
+  },
+  "Year": 2002,
+  "State": "PENNSYLVANIA",
+  "State ANSI": 42,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "58,105"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b1f"
+  },
+  "Year": 2002,
+  "State": "RHODE ISLAND",
+  "State ANSI": 44,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": 858
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b20"
+  },
+  "Year": 2002,
+  "State": "SOUTH CAROLINA",
+  "State ANSI": 45,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "24,541"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b21"
+  },
+  "Year": 2002,
+  "State": "SOUTH DAKOTA",
+  "State ANSI": 46,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "31,736"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b22"
+  },
+  "Year": 2002,
+  "State": "TENNESSEE",
+  "State ANSI": 47,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "87,595"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b23"
+  },
+  "Year": 2002,
+  "State": "TEXAS",
+  "State ANSI": 48,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "228,926"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b24"
+  },
+  "Year": 2002,
+  "State": "UTAH",
+  "State ANSI": 49,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "15,282"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b25"
+  },
+  "Year": 2002,
+  "State": "VERMONT",
+  "State ANSI": 50,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "6,571"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b26"
+  },
+  "Year": 2002,
+  "State": "VIRGINIA",
+  "State ANSI": 51,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "47,606"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b27"
+  },
+  "Year": 2002,
+  "State": "WASHINGTON",
+  "State ANSI": 53,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "35,939"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b28"
+  },
+  "Year": 2002,
+  "State": "WEST VIRGINIA",
+  "State ANSI": 54,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "20,812"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b29"
+  },
+  "Year": 2002,
+  "State": "WISCONSIN",
+  "State ANSI": 55,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "77,131"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b2a"
+  },
+  "Year": 2002,
+  "State": "WYOMING",
+  "State ANSI": 56,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "9,422"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b2b"
+  },
+  "Year": 1997,
+  "State": "ALABAMA",
+  "State ANSI": 1,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "49,872"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b2c"
+  },
+  "Year": 1997,
+  "State": "ALASKA",
+  "State ANSI": 2,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": 548
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b2d"
+  },
+  "Year": 1997,
+  "State": "ARIZONA",
+  "State ANSI": 4,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "8,507"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b2e"
+  },
+  "Year": 1997,
+  "State": "ARKANSAS",
+  "State ANSI": 5,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "49,493"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b2f"
+  },
+  "Year": 1997,
+  "State": "CALIFORNIA",
+  "State ANSI": 6,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "87,991"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b30"
+  },
+  "Year": 1997,
+  "State": "COLORADO",
+  "State ANSI": 8,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "30,197"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b31"
+  },
+  "Year": 1997,
+  "State": "CONNECTICUT",
+  "State ANSI": 9,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "4,905"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b32"
+  },
+  "Year": 1997,
+  "State": "DELAWARE",
+  "State ANSI": 10,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "2,671"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b33"
+  },
+  "Year": 1997,
+  "State": "FLORIDA",
+  "State ANSI": 12,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "45,808"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b34"
+  },
+  "Year": 1997,
+  "State": "GEORGIA",
+  "State ANSI": 13,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "49,343"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b35"
+  },
+  "Year": 1997,
+  "State": "HAWAII",
+  "State ANSI": 15,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "5,473"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b36"
+  },
+  "Year": 1997,
+  "State": "IDAHO",
+  "State ANSI": 16,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "25,590"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b37"
+  },
+  "Year": 1997,
+  "State": "ILLINOIS",
+  "State ANSI": 17,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "79,112"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b38"
+  },
+  "Year": 1997,
+  "State": "INDIANA",
+  "State ANSI": 18,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "66,707"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b39"
+  },
+  "Year": 1997,
+  "State": "IOWA",
+  "State ANSI": 19,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "96,705"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b3a"
+  },
+  "Year": 1997,
+  "State": "KANSAS",
+  "State ANSI": 20,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "65,476"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b3b"
+  },
+  "Year": 1997,
+  "State": "KENTUCKY",
+  "State ANSI": 21,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "91,198"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b3c"
+  },
+  "Year": 1997,
+  "State": "LOUISIANA",
+  "State ANSI": 22,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "30,425"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b3d"
+  },
+  "Year": 1997,
+  "State": "MAINE",
+  "State ANSI": 23,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "7,404"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b3e"
+  },
+  "Year": 1997,
+  "State": "MARYLAND",
+  "State ANSI": 24,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "13,254"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b3f"
+  },
+  "Year": 1997,
+  "State": "MASSACHUSETTS",
+  "State ANSI": 25,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "7,307"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b40"
+  },
+  "Year": 1997,
+  "State": "MICHIGAN",
+  "State ANSI": 26,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "53,519"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b41"
+  },
+  "Year": 1997,
+  "State": "MINNESOTA",
+  "State ANSI": 27,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "78,755"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b42"
+  },
+  "Year": 1997,
+  "State": "MISSISSIPPI",
+  "State ANSI": 28,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "42,150"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b43"
+  },
+  "Year": 1997,
+  "State": "MISSOURI",
+  "State ANSI": 29,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "110,986"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b44"
+  },
+  "Year": 1997,
+  "State": "MONTANA",
+  "State ANSI": 30,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "27,632"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b45"
+  },
+  "Year": 1997,
+  "State": "NEBRASKA",
+  "State ANSI": 31,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "54,539"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b46"
+  },
+  "Year": 1997,
+  "State": "NEVADA",
+  "State ANSI": 32,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "3,198"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b47"
+  },
+  "Year": 1997,
+  "State": "NEW HAMPSHIRE",
+  "State ANSI": 33,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "3,928"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b48"
+  },
+  "Year": 1997,
+  "State": "NEW JERSEY",
+  "State ANSI": 34,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "10,045"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b49"
+  },
+  "Year": 1997,
+  "State": "NEW MEXICO",
+  "State ANSI": 35,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "17,876"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b4a"
+  },
+  "Year": 1997,
+  "State": "NEW YORK",
+  "State ANSI": 36,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "38,264"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b4b"
+  },
+  "Year": 1997,
+  "State": "NORTH CAROLINA",
+  "State ANSI": 37,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "59,120"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b4c"
+  },
+  "Year": 1997,
+  "State": "NORTH DAKOTA",
+  "State ANSI": 38,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "32,348"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b4d"
+  },
+  "Year": 1997,
+  "State": "OHIO",
+  "State ANSI": 39,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "78,737"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b4e"
+  },
+  "Year": 1997,
+  "State": "OKLAHOMA",
+  "State ANSI": 40,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "84,028"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b4f"
+  },
+  "Year": 1997,
+  "State": "OREGON",
+  "State ANSI": 41,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "39,975"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b50"
+  },
+  "Year": 1997,
+  "State": "PENNSYLVANIA",
+  "State ANSI": 42,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "60,222"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b51"
+  },
+  "Year": 1997,
+  "State": "RHODE ISLAND",
+  "State ANSI": 44,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": 994
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b52"
+  },
+  "Year": 1997,
+  "State": "SOUTH CAROLINA",
+  "State ANSI": 45,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "25,807"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b53"
+  },
+  "Year": 1997,
+  "State": "SOUTH DAKOTA",
+  "State ANSI": 46,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "33,191"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b54"
+  },
+  "Year": 1997,
+  "State": "TENNESSEE",
+  "State ANSI": 47,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "91,536"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b55"
+  },
+  "Year": 1997,
+  "State": "TEXAS",
+  "State ANSI": 48,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "228,173"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b56"
+  },
+  "Year": 1997,
+  "State": "UTAH",
+  "State ANSI": 49,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "15,810"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b57"
+  },
+  "Year": 1997,
+  "State": "VERMONT",
+  "State ANSI": 50,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "7,063"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b58"
+  },
+  "Year": 1997,
+  "State": "VIRGINIA",
+  "State ANSI": 51,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "49,366"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b59"
+  },
+  "Year": 1997,
+  "State": "WASHINGTON",
+  "State ANSI": 53,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "40,113"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b5a"
+  },
+  "Year": 1997,
+  "State": "WEST VIRGINIA",
+  "State ANSI": 54,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "21,531"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b5b"
+  },
+  "Year": 1997,
+  "State": "WISCONSIN",
+  "State ANSI": 55,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "79,541"
+},{
+  "_id": {
+    "$oid": "642ba09b46154063e2240b5c"
+  },
+  "Year": 1997,
+  "State": "WYOMING",
+  "State ANSI": 56,
+  "Data Item": "FARM OPERATIONS - NUMBER OF OPERATIONS",
+  "Value": "9,443"
+}]
