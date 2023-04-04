@@ -6,7 +6,8 @@ features = [];
 colorCodes = [];
 
 let submit = d3.select("#submitButton");
-
+let clearSelection= d3.select("#clearSelection");
+let clearPlots=d3.select("#clearPlots");
 
 //Fetch the JSON data and console log it
 //#######################################
@@ -66,9 +67,12 @@ function updateNewFeatures(years, state, produce) {
     }
     if(d3.select("#produceSummary").property("checked")){
         chartProduce(sample);
-        pieChart(sample);
+        //pieChart(sample);
     } 
-
+    if(d3.select("#producePie").property("checked")){
+        //pieChart(sample);
+        doughnutChart(sample);
+    } 
 }
 //---------------Make random color code---------------
 function generateRandomHexCode() {
@@ -335,7 +339,7 @@ function bubbleChart(sample) {
     };
 
     var traceData = [trace1];
-    Plotly.newPlot("bubbleChart", traceData, layout);
+    Plotly.newPlot("commodityChart", traceData, layout);
 }
 //-------------------------------------------------
 //------------------ Pie chars -----------------------------
@@ -407,7 +411,7 @@ function pieChart(sample) {
         type: 'pie'
       }];
     //var traceData = [trace1];
-    Plotly.newPlot("bubbleChart", traceData, layout);
+    Plotly.newPlot("commodityChart", traceData, layout);
 }
 
 //-----------------------------------------------
@@ -449,7 +453,98 @@ submit.on("click", function () {
 
     updateNewFeatures(years, stateValues, produce);
 });
+//-------------------------------------------
+function doughnutChart(sample) {
+    var x = sample.map(row => row.commodity_desc);
+    var x_values = x.filter((value, index, array) => array.indexOf(value) === index);
+    console.log('x_values:', x_values);
 
+    var y;
+    var y_values = [];
+    var total_y = 0;
+
+    
+
+    for (var i = 0; i < x_values.length; i++) {
+        y = sample.filter(row => row.commodity_desc == x_values[i]);
+        total_y = 0;
+        for (var j = 0; j < y.length; j++) {
+            total_y += y[j].value_harvested;
+        }
+        y_values.push(total_y);
+
+    }
+    console.log('y_values:', y_values);
+
+
+    var chart = d3.select('#pieChart');
+    chart.remove();
+    d3.select('#pieReport').append('canvas').attr("id", "pieChart");
+
+
+    const ctx = document.getElementById('pieChart');
+
+
+    new Chart(ctx, {
+        type: 'doughnut',
+        data: {
+            labels: x_values,
+            datasets: [{
+                label: 'Acres Harvested',
+                data: y_values,
+                borderWidth: 1
+            }
+            ]
+        },
+        options: {
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'Produce Summery'
+                },
+                customCanvasBackgroundColor: {
+                    color: 'lightGreen',
+                }
+            },
+
+            scales: {
+                y: {
+                    beginAtZero: true
+                },
+
+            }
+        }
+
+
+
+
+    });
+
+}
+
+//-------------------------------------------
+//clear plots and resets dropdowns
+clearPlots.on("click", function () {
+    
+    console.log('clear plots');
+    Plotly.purge('statesBar');
+    Plotly.purge('yearlyBar');
+    //Plotly.purge('commodityChart');
+    
+    var chart = d3.select('#myChart');
+    chart.remove();
+    d3.select('#chartReport').append('canvas').attr("id", "myChart");
+    
+    var chart2 = d3.select('#pieChart');
+    chart2.remove();
+    d3.select('#pieReport').append('canvas').attr("id", "pieChart");
+});
+//-----------------------------------------------
+clearSelection.on("click", function () {
+    
+    window.location.reload(); 
+    
+});
 
 //#######################################
 

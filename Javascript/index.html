@@ -53,6 +53,11 @@
 
     }
 
+    .sublist {
+      font-size: 12px;
+
+    }
+
     .dropdown {
       font-size: 10px;
       width: 50px;
@@ -63,17 +68,17 @@
     }
 
     .button2 {
-      border-radius: 4px;
+      border-radius: 8px;
       width: 150px;
-      font-size: 16px;
-      padding: 12px 28px;
+      font-size: 15px;
+      padding: 12px 12px;
       transition-duration: 0.4s;
 
     }
 
     .button2:hover {
       box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
-      background-color: #CFD0D0;
+      background-color: #c6f987;
       /* Green */
 
     }
@@ -98,6 +103,7 @@
   <div class="bgimg1 container  ">
     <div class="row ">
       <div class="col-md-12 text-center">
+        <h1> <br></h1>
         <h1> <br></h1>
         <h1> <br></h1>
         <h1> <br></h1>
@@ -160,7 +166,7 @@
         <select class="contactboarder" id="states" class="dropdown" value='CA' multiple>
           <option value='TX'>TEXAS</option>
           <option value='MT'>MONTANA</option>
-          <option value='KS'>KENSAS</option>
+          <option value='KS'>KANSAS</option>
           <option value='NE'>NEBRASKA</option>
           <option value='SD'>SOUTH DAKOTA</option>
           <option value='ND'>NORTH DAKOTA</option>
@@ -250,23 +256,39 @@
       </div>
 
       <div class="  col-md-3">
-        <br> 
+        <br>
         <input type="checkbox" id="yearlySummary" name="yearly_chart" value="yearlyGraph">
         <label for="yearlySummary">Yearly Summary</label><br>
         <input type="checkbox" id="statesSummary" name="states_chart" value="statesGraph">
-        <label for="yearlySummary">States Summary</label><br>
+        <label for="yearlySummary">States Summary</label>
+        <hr>
+
+        <label for="Commodity:"> Commodity:</label><br>
         <input type="checkbox" id="produceSummary" name="poduce_chart" value="produceGraph">
-        <label for="produceSummary"> Produce Summary</label><br>
-        
-        
-        <input id="submitButton" type="button" class="button2" value="Submit"><br>
+        <label class="sublist" for="produceSummary"> Bar Chart</label><br>
+        <input type="checkbox" id="producePie" name="poduce_pie" value="producePie">
+        <label class="sublist" for="producePie"> Doughnut Chart</label><br>
+
+
         <!-- <button type="submit">Inline-block button</button> -->
       </div>
 
 
     </div>
 
+    <div class="row">
+      <div class="  col-md-4">
+        <br><input id="clearSelection" type="button" class="button2" value="Clear Selections">
+      </div>
 
+      <div class="  col-md-4">
+        <br><input id="clearPlots" type="button" class="button2" value="Clear Plots">
+      </div>
+      <div class="  col-md-4">
+        <br><input id="submitButton" type="button" class="button2" value="Submit">
+      </div>
+
+    </div><br>
 
 
 
@@ -280,27 +302,37 @@
 
     <!-- ****P L O T S**** -->
     <div class="row">
-      <div class="col-md-12" id="chartReport">
+      <div class="col-md-6" id="chartReport">
         <canvas id="myChart"></canvas>
       </div>
 
       
-      <div class="col-md-12">
-        <div id="statesBar"></div>
-      </div>
-    </div>
-      <div class="row"></div>
-      <div class="col-md-12">
-        <div id="yearlyBar"></div>
+      <div class="col-md-6" id="pieReport">
+        <canvas id="pieChart"></canvas>
       </div>
     </div>
 
     <div class="row">
-      <div class="col-md-12">
-        <div id="bubbleChart"></div>
+      
+      <div class="col-md-6">
+        <div id="statesBar"></div>
+      </div>
+
+      <div class="col-md-6">
+        <div id="yearlyBar"></div>
       </div>
     </div>
-    <br>
+
+  </div> <!--  container -->
+
+
+  <!-- <div class="row">
+      <div class="col-md-12">
+        <div id="commodityChart"></div>
+      </div>
+    </div> -->
+
+  <br>
   </div>
   </div>
 
@@ -320,7 +352,7 @@
 
     </div>
   </div>
- 
+
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="https://d3js.org/d3.v5.min.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
