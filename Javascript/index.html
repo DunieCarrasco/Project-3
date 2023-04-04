@@ -155,8 +155,32 @@
         <br><br>
       </div>
 
-
       <div class=" col-md-3">
+        <label for="States">States:</label><br>
+        <select class="contactboarder" id="states" class="dropdown" value='CA' multiple>
+          <option value='TX'>TEXAS</option>
+          <option value='MT'>MONTANA</option>
+          <option value='KS'>KENSAS</option>
+          <option value='NE'>NEBRASKA</option>
+          <option value='SD'>SOUTH DAKOTA</option>
+          <option value='ND'>NORTH DAKOTA</option>
+          <option value='NM'>NEW MEXICO</option>
+          <option value='OK'>OKLAHAMA</option>
+          <option value='CO'>COLORADO</option>
+          <option value='IA'>IOWA</option>
+          <option value='WY'>WYOMING</option>
+          <option value='MO'>MISSOURI</option>
+          <option value='IL'>ILLINOIS</option>
+          <option value='AZ'>ARIZONA</option>
+          <option value='MN'>MINNESOTA</option>
+          <option value='CA'>CALIFORNIA</option>
+        </select>
+        <br><br>
+      </div>
+
+
+
+      <!-- <div class=" col-md-3">
         <label for="States">States:</label><br>
         <select class="contactboarder" id="states" class="dropdown" value='CA' multiple>
           <option value='CA'>California</option>
@@ -171,7 +195,7 @@
           <option value='IA'>Iowa</option>
         </select>
         <br><br>
-      </div>
+      </div> -->
 
       <div class=" col-md-3">
         <label for="Produce">Vegetables and Grains:</label><br>
@@ -226,27 +250,29 @@
       </div>
 
       <div class="  col-md-3">
-        <br> <br>
+        <br> 
+        <input type="checkbox" id="yearlySummary" name="yearly_chart" value="yearlyGraph">
+        <label for="yearlySummary">Yearly Summary</label><br>
+        <input type="checkbox" id="statesSummary" name="states_chart" value="statesGraph">
+        <label for="yearlySummary">States Summary</label><br>
+        <input type="checkbox" id="produceSummary" name="poduce_chart" value="produceGraph">
+        <label for="produceSummary"> Produce Summary</label><br>
+        
+        
         <input id="submitButton" type="button" class="button2" value="Submit"><br>
         <!-- <button type="submit">Inline-block button</button> -->
       </div>
 
+
+    </div>
+
+
+
+
+
+    <!-- <div class="row">
       
-
-     
-
-    </div>
-
-
-
-
-
-    <div class="row">
-      <div class="col-md-12" id="chartReport">
-        <canvas id="myChart"></canvas>
-      </div>
-
-    </div>
+    </div> -->
 
 
 
@@ -254,12 +280,17 @@
 
     <!-- ****P L O T S**** -->
     <div class="row">
-      <div class="col-md-6">
-        <div id="statesBar"></div>
+      <div class="col-md-12" id="chartReport">
+        <canvas id="myChart"></canvas>
       </div>
 
-
-      <div class="col-md-6">
+      
+      <div class="col-md-12">
+        <div id="statesBar"></div>
+      </div>
+    </div>
+      <div class="row"></div>
+      <div class="col-md-12">
         <div id="yearlyBar"></div>
       </div>
     </div>
@@ -289,6 +320,7 @@
 
     </div>
   </div>
+ 
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="https://d3js.org/d3.v5.min.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>

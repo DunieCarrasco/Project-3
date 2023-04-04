@@ -57,10 +57,17 @@ function updateNewFeatures(years, state, produce) {
     });
 
     console.log('sample:', sample);
-    states_barChart(sample);
-    yearly_barChart(sample);
-    chartProduce(sample);
-    bubbleChart(sample);
+
+    if(d3.select("#yearlySummary").property("checked")){
+        yearly_barChart(sample);
+    }
+    if(d3.select("#statesSummary").property("checked")){
+        states_barChart(sample);
+    }
+    if(d3.select("#produceSummary").property("checked")){
+        chartProduce(sample);
+        pieChart(sample);
+    } 
 
 }
 //---------------Make random color code---------------
@@ -79,8 +86,11 @@ function generateRandomHexCode() {
     return hexColorCodes;
 }
 //--------------States Bar Chart-------------------------------
-function states_barChart(sample) {
+function states_barChart(sample_org) {
     // Trace for the State Data
+
+    sample=sample_org.sort((first,second)=>second.value_planted-first.value_planted);
+    
 
     let trace1 = {
         x: sample.map(row => row.state_alpha),
@@ -88,6 +98,7 @@ function states_barChart(sample) {
         type: "bar",
         name: 'Harvested',
         hoverinfo: 'y',
+        //orientation: 'h',
 
     };
 
@@ -97,6 +108,7 @@ function states_barChart(sample) {
         type: "bar",
         name: 'Planted',
         hoverinfo: 'y',
+        //orientation: 'h',
     };
 
     // Data trace array
@@ -104,15 +116,16 @@ function states_barChart(sample) {
 
     // Apply the group barmode to the layout
     let layout = {
-
-        xaxis: {
-            title: {
-                text: 'States'
-            }
-        },
+        height: 550,
+        width: 700,
         yaxis: {
             title: {
                 text: 'Area Operated(Acres)'
+            }
+        },
+        xaxis: {
+            title: {
+                text: 'States'
             }
         },
         title: "States Summary"
@@ -127,10 +140,9 @@ function states_barChart(sample) {
 function yearly_barChart(sample) {
     // Trace for the State Data
     let trace1 = {
-        y: sample.map(row => row.year),
-        x: sample.map(row => row.value_harvested),
+        x: sample.map(row => row.year),
+        y: sample.map(row => row.value_harvested),
         type: "bar",
-        orientation: 'h',
         name: 'Harvested',
         // marker: {
         //     color: '#B8A2C8',
@@ -139,10 +151,9 @@ function yearly_barChart(sample) {
     };
 
     let trace2 = {
-        y: sample.map(row => row.year),
-        x: sample.map(row => (row.value_planted + row.value_bearing)),
+        x: sample.map(row => row.year),
+        y: sample.map(row => (row.value_planted + row.value_bearing)),
         type: "bar",
-        orientation: 'h',
         name: 'Planted',
 
     };
@@ -152,6 +163,8 @@ function yearly_barChart(sample) {
 
     // Apply the group barmode to the layout
     let layout = {
+        height: 550,
+        width: 700,
         barmode: 'stack',
         //hoverinfo: 'none',
         opacity: 0.5,
@@ -271,7 +284,7 @@ function bubbleChart(sample) {
     for (var i = 0; i < x_values.length; i++) {
         y = sample.filter(row => row.commodity_desc == x_values[i]);
         total = 0;
-        for (var j = 0; j < y.length; y++) {
+        for (var j = 0; j < y.length; j++) {
             total += y[j].value_harvested;
         }
         y_values.push(total);
@@ -292,17 +305,14 @@ function bubbleChart(sample) {
     console.log('marker size:', markerSize);
 
 
-
-
-
     let trace1 = {
         x: x_values,
         y: y_values,
         //type:'bar',
-        mode: 'markers',
+        mode: 'lines+markers',
         //text: textValues,
         marker: {
-            size: markerSize,
+            size: 8,
             color: colors,
             opacity: 0.6,
         }
@@ -328,7 +338,77 @@ function bubbleChart(sample) {
     Plotly.newPlot("bubbleChart", traceData, layout);
 }
 //-------------------------------------------------
+//------------------ Pie chars -----------------------------
+function pieChart(sample) {
 
+    var x = sample.map(row => row.commodity_desc);
+    var x_values = x.filter((value, index, array) => array.indexOf(value) === index);
+    console.log('x_values:', x_values);
+
+    var y_values = [];
+    var total = 0;
+
+    for (var i = 0; i < x_values.length; i++) {
+        y = sample.filter(row => row.commodity_desc == x_values[i]);
+        total = 0;
+        for (var j = 0; j < y.length; j++) {
+            total += y[j].value_harvested;
+        }
+        y_values.push(total);
+    }
+    console.log('y_values:', y_values);
+
+    var markerSize = [];
+    markerSize = y_values.map(function (val) {
+        var c = Math.floor(val / 800);
+        if (c > 100)
+            return 130;
+        else
+            return c;
+    });
+
+
+    colors = colorCodes.slice(0, y.length);//y_values.map(val => Math.floor(val /40));
+    console.log('marker size:', markerSize);
+
+
+    let trace1 = {
+        x: x_values,
+        y: y_values,
+        //type:'bar',
+        mode: 'lines+markers',
+        //text: textValues,
+        marker: {
+            size: 8,
+            color: colors,
+            opacity: 0.6,
+        }
+    };
+
+    let layout = {
+        height: 450,
+        width: 800,
+        xaxis: {
+            title: {
+                text: ''
+            }
+        },
+        yaxis: {
+            title: {
+                text: 'Area Operated (Acres)'
+            }
+        }
+
+    };
+
+    var traceData = [{
+        values: y_values,
+        labels: x_values,
+        type: 'pie'
+      }];
+    //var traceData = [trace1];
+    Plotly.newPlot("bubbleChart", traceData, layout);
+}
 
 //-----------------------------------------------
 //update after each submission
