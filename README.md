@@ -24,3 +24,5 @@ In this project we want to analyze the top 16 agricultural-producing states ( SD
 
 # Data and Delivery
 
+# Visualizations
+
