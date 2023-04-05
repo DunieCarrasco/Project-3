@@ -26,3 +26,4 @@ In this project we want to analyze the top 16 agricultural-producing states ( SD
 
 # Visualizations
 
+![Screenshot 2023-04-04 at 7 46 56 PM](https://user-images.githubusercontent.com/117786548/229968255-7061af87-b359-4b2e-88dd-ff5e06491ea1.png)
