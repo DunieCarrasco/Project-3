@@ -254,7 +254,7 @@ function chartProduce(sample) {
             plugins: {
                 title: {
                     display: true,
-                    text: 'Produce Summery'
+                    text: 'Produce Summary'
                 },
                 customCanvasBackgroundColor: {
                     color: 'lightGreen',
@@ -500,7 +500,7 @@ function doughnutChart(sample) {
             plugins: {
                 title: {
                     display: true,
-                    text: 'Produce Summery'
+                    text: 'Produce Summary'
                 },
                 customCanvasBackgroundColor: {
                     color: 'lightGreen',
