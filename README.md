@@ -1,6 +1,6 @@
 # How Much of What is Coming from Where?: A Geospatial Analysis of Agricultural Production
 
-In this project we want to analyze the top 10 agricultural-producing states('CA', 'KS', 'MN', 'NE', 'NC', 'TX', 'WI', 'IL', 'IN', 'IA'), based on the acreage used for crops over the course of years. The data is from the USDA websites https://quickstats.nass.usda.gov/api/. Using the USDA Api, we gather the acreage used for all crops in these ten states since 1997.
+In this project we want to analyze the top 16 agricultural land area states('SD','ND','NM','OK','CO','WY','MO','AZ','CA','IA','NE','TX','IL','KS','MN','MT'), based on the acreage used for crops over the course of years. The data is from the USDA websites https://quickstats.nass.usda.gov/api/. Using the USDA Api, we gather the acreage used for all crops in these ten states since 1997.
 
 # Requirments:
 
