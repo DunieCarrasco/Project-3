@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Agricultural Database</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="{{ url_for('static', filename='/js/app.js') }}" ></script>
+
+  <style>
+    .bgimg1 {
+
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+
+      min-height: 90%;
+      background-image: url("{{ url_for('static', filename='agiculture.JPG') }}");
+
+    }
+
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+
+    .contact {
+      margin-left: 10px;
+      margin-right: 0px;
+      margin-top: 10px;
+      background-color: black;
+      color: white;
+      font-weight: 200;
+    }
+
+    .contactboarder {
+      border-radius: 5px;
+      box-shadow: 10px 10px 5px #888888;
+    }
+
+    .contactboarder2 {
+      margin-left: 100px;
+      margin-right: 100px;
+      margin-top: 10px;
+      border-radius: 5px;
+      box-shadow: 10px 10px 5px #888888;
+      background-color: black;
+
+    }
+
+    .sublist {
+      font-size: 12px;
+
+    }
+
+    .dropdown {
+      font-size: 10px;
+      width: 50px;
+    }
+
+    .radioButton {
+      font-size: 12px;
+    }
+
+    .button2 {
+      border-radius: 8px;
+      width: 150px;
+      font-size: 15px;
+      padding: 12px 12px;
+      transition-duration: 0.4s;
+
+    }
+
+    .button2:hover {
+      box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+      background-color: #c6f987;
+      /* Green */
+
+    }
+
+    .outline {
+      outline-style: double;
+    }
+
+    .flex-parent {
+      display: flex;
+    }
+
+    .jc-center {
+      justify-content: center;
+    }
+  </style>
+
+
+</head>
+
+<body>
+  <div class="bgimg1 container  ">
+    <div class="row ">
+      <div class="col-md-12 text-center">
+        <h1> <br></h1>
+        <h1> <br></h1>
+        <h1> <br></h1>
+        <h1> <br></h1>
+        <h1> <br></h1>
+        <h1> <br></h1>
+        <h1> <br></h1>
+
+
+        <p></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="container ">
+
+    <div class="row ">
+      <div class="col-md-12 ">
+        <br>
+        
+        <p style="font-size:18px;font-family:Verdana, sans-serif"><span style="font-size:28px">A</span>griculture is often overlooked when we talk about influential global markets, however it’s an industry that is inherently tied to our survival, and the one that leads toward globalization.
+
+          The emergence of new technologies, deeper integration of global markets, and changes in consumer behavior all have downstream effects on agribusiness that are coming faster than the industry can respond.
+          Those hidden trends in agricultural practices are critical to understanding global economies.It motivated us to do a short case study on agricultural data provided by the U.S. Department of Agriculture (USDA). 
+          We analyzed the 16 states with the highest acreage of agricultural land since 1997.
+          <br>
+        </p>
+        <a style="font-size:24px;color:rgb(78, 165, 51);text-align:center" href="/"> <span style="text-align:center">  <  back<span> </a>
+       <br>
+        </div>
+    </div>
+
+
+   
+
+
+
+
+  <!-- ****************** -->
+
+  <div class="contactboarder w3-container  w3-black w3-center" style="width:100%">
+    <div id="contactme" class="">
+      <div class=" col-sm-3" style="margin-top:3px">
+
+        @Group 4, Project 3
+      </div>
+    </div>
+  </div>
+
+  </div>
+
+</body>
+
+</html>

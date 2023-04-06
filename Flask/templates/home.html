@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Agricultural Database</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="{{ url_for('static', filename='/js/app.js') }}" ></script>
+
+  <style>
+    .bgimg1 {
+
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+
+      min-height: 90%;
+      background-image: url("{{ url_for('static', filename='agiculture.JPG') }}");
+
+    }
+
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+
+    .contact {
+      margin-left: 10px;
+      margin-right: 0px;
+      margin-top: 10px;
+      background-color: black;
+      color: white;
+      font-weight: 200;
+    }
+
+    .contactboarder {
+      border-radius: 5px;
+      box-shadow: 10px 10px 5px #888888;
+    }
+
+    .contactboarder2 {
+      margin-left: 100px;
+      margin-right: 100px;
+      margin-top: 10px;
+      border-radius: 5px;
+      box-shadow: 10px 10px 5px #888888;
+      background-color: black;
+
+    }
+
+    .sublist {
+      font-size: 12px;
+
+    }
+
+    .dropdown {
+      font-size: 10px;
+      width: 50px;
+    }
+
+    .radioButton {
+      font-size: 12px;
+    }
+
+    .button2 {
+      border-radius: 8px;
+      width: 150px;
+      font-size: 15px;
+      padding: 12px 12px;
+      transition-duration: 0.4s;
+
+    }
+
+    .button2:hover {
+      box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+      background-color: #c6f987;
+      /* Green */
+
+    }
+
+    .outline {
+      outline-style: double;
+    }
+
+    .flex-parent {
+      display: flex;
+    }
+
+    .jc-center {
+      justify-content: center;
+    }
+  </style>
+
+
+</head>
+
+<body>
+  <div class="bgimg1 container  "> <a href="/about">
+    <div class="row ">
+      <div class="col-md-12 text-center">
+        <h1> <br></h1>
+        <h1> <br></h1>
+        <h1> <br></h1>
+        <h1> <br></h1>
+        <h1> <br></h1>
+        <h1> <br></h1>
+        <h1> <br></h1>
+
+
+        <p></p>
+      </div>
+    </div>
+    </a>
+  </div>
+
+  <div class="container ">
+
+    <div class="row ">
+      <div class="col-md-12 text-center">
+        <br>
+      </div>
+    </div>
+
+
+    <div class="row">
+
+      <div class=" col-md-3">
+        <label for="Years">Year:</label><br>
+        <select class="contactboarder" id="years" class="dropdown" style="width: 80px;" multiple>
+          <option value='2022'>2022 </option>
+          <option value='2021'> 2021</option>
+          <option value='2020'> 2020</option>
+          <option value='2019'> 2019</option>
+          <option value='2018'> 2018</option>
+          <option value='2017'> 2017</option>
+          <option value='2016'> 2016</option>
+          <option value='2015'> 2015</option>
+          <option value='2014'> 2014</option>
+          <option value='2013'> 2013</option>
+          <option value='2012'> 2012</option>
+          <option value='2011'> 2011</option>
+          <option value='2010'> 2010</option>
+          <option value='2009'> 2009</option>
+          <option value='2008'> 2008</option>
+          <option value='2007'> 2007</option>
+          <option value='2006'> 2006</option>
+          <option value='2005'> 2005</option>
+          <option value='2004'> 2004</option>
+          <option value='2003'> 2003</option>
+          <option value='2002'> 2002</option>
+          <option value='2001'> 2001</option>
+          <option value='2000'> 2000</option>
+          <option value='1999'> 1999</option>
+          <option value='1998'> 1998</option>
+          <option value='1997'> 1997</option>
+        </select>
+        <br><br>
+      </div>
+
+      <div class=" col-md-3">
+        <label for="States">States:</label><br>
+        <select class="contactboarder" id="states" class="dropdown" value='CA' multiple>
+          <option value='TX'>TEXAS</option>
+          <option value='MT'>MONTANA</option>
+          <option value='KS'>KANSAS</option>
+          <option value='NE'>NEBRASKA</option>
+          <option value='SD'>SOUTH DAKOTA</option>
+          <option value='ND'>NORTH DAKOTA</option>
+          <option value='NM'>NEW MEXICO</option>
+          <option value='OK'>OKLAHOMA</option>
+          <option value='CO'>COLORADO</option>
+          <option value='IA'>IOWA</option>
+          <option value='WY'>WYOMING</option>
+          <option value='MO'>MISSOURI</option>
+          <option value='IL'>ILLINOIS</option>
+          <option value='AZ'>ARIZONA</option>
+          <option value='MN'>MINNESOTA</option>
+          <option value='CA'>CALIFORNIA</option>
+        </select>
+        <br><br>
+      </div>
+
+
+
+      <!-- <div class=" col-md-3">
+        <label for="States">States:</label><br>
+        <select class="contactboarder" id="states" class="dropdown" value='CA' multiple>
+          <option value='CA'>California</option>
+          <option value='KS'>Kansas</option>
+          <option value='MN'>Minnesota</option>
+          <option value='NE'>Nebraska</option>
+          <option value='NC'> North Carolina</option>
+          <option value='TX'>Texas</option>
+          <option value='WI'>Wisconsin</option>
+          <option value='IL'>Illinois</option>
+          <option value='IN'>Indiana</option>
+          <option value='IA'>Iowa</option>
+        </select>
+        <br><br>
+      </div> -->
+
+      <div class=" col-md-3">
+        <label for="Produce">Vegetables and Grains:</label><br>
+        <select class="contactboarder" id="VegAndGrain" class="dropdown" multiple>
+          <option value='CORN'>CORN</option>
+          <option value='WHEAT'>WHEAT</option>
+          <option value='SOYBEANS'>SOYBEANS</option>
+          <option value='COTTON'>COTTON</option>
+          <!-- <option value='HAY & HAYLAGE' >HAY & HAYLAGE</option> -->
+          <option value='SORGHUM'>SORGHUM</option>
+          <option value='RICE'>RICE</option>
+          <!-- <option value='OAT' >OAT</option> -->
+          <option value='BEANS'>BEANS</option>
+          <option value='SUNFLOWER'>SUNFLOWER</option>
+          <option value='SUGARBEETS'>SUGARBEETS</option>
+          <option value='PEANUTS'>PEANUTS</option>
+          <option value='POTATOES'>POTATOES</option>
+          <!-- <option value='TOMATOES' >TOMATOES</option> -->
+          <option value='BARLEY'>BARLEY</option>
+          <!-- <option value='SWEET CORN' >SWEET CORN</option> -->
+          <option value='LETTUCE'>LETTUCE</option>
+          <option value='PEAS'>PEAS</option>
+          <option value='MILLET'>MILLET</option>
+          <option value='BROCCOLI'>BROCCOLI</option>
+          <option value='MELONS'>MELONS</option>
+          <!-- <option value='SWEET POTATOES' >SWEET POTATOES</option> -->
+          <option value='CARROTS'>CARROTS</option>
+          <option value='CANOLA'>CANOLA</option>
+          <!-- <option value='RYE' >RYE</option> -->
+          <option value='ONIONS'>ONIONS</option>
+          <option value='SAFFLOWER'>SAFFLOWER</option>
+          <option value='CAULIFLOWER'>CAULIFLOWER</option>
+          <option value='SPINACH'>SPINACH</option>
+          <option value='CUCUMBERS'>CUCUMBERS</option>
+          <option value='PEPPERS'>PEPPERS</option>
+          <option value='CABBAGE'>CABBAGE</option>
+          <option value='GARLIC'>GARLIC</option>
+          <option value='CELERY'>CELERY</option>
+          <option value='CHICKPEAS'>CHICKPEAS</option>
+          <option value='PUMPKINS'>PUMPKINS</option>
+          <option value='ASPARAGUS'>ASPARAGUS</option>
+          <!-- <option value= 'SQUASH'>SQUASH</option>    -->
+          <option value='ARTICHOKES'>ARTICHOKES</option>
+          <option value='FLAXSEED'>FLAXSEED</option>
+          <option value='BRUSSELS SPROUTS'>BRUSSELS SPROUTS</option>
+          <option value='BEETS'>BEETS</option>
+          <option value='EGGPLANT'>EGGPLANT </option>
+          <option value='RADISHES'>RADISHES</option>
+          <option value='OKRA'>OKRA</option>
+        </select>
+        <br><br>
+      </div>
+
+      <div class="  col-md-3">
+        <br>
+        <input type="checkbox" id="yearlySummary" name="yearly_chart" value="yearlyGraph">
+        <label for="yearlySummary">Yearly Summary</label><br>
+        <input type="checkbox" id="statesSummary" name="states_chart" value="statesGraph">
+        <label for="yearlySummary">States Summary</label>
+        <hr>
+
+        <label for="Commodity:"> Commodity:</label><br>
+        <input type="checkbox" id="produceSummary" name="poduce_chart" value="produceGraph">
+        <label class="sublist" for="produceSummary"> Bar Chart</label><br>
+        <input type="checkbox" id="producePie" name="poduce_pie" value="producePie">
+        <label class="sublist" for="producePie"> Doughnut Chart</label><br>
+
+
+        
+      </div>
+
+
+    </div>
+
+    <div class="row">
+      <div class="  col-md-4">
+        <br><input onclick="clearDropDowns();" id="clearSelection" type="button" class="button2" value="Clear Selections">
+      </div>
+
+      <div class="  col-md-4">
+        <br><input onclick="clearAllPlots();" id="clearPlots" type="button" class="button2" value="Clear Plots">
+      </div>
+      <div class="  col-md-4">
+        <br><input   onclick="submitData();" id="submitButton" type="button" class="button2" value="Submit">
+      </div>
+
+    </div><br>
+
+
+
+    <!-- <div class="row">
+      
+    </div> -->
+
+
+
+
+
+    <!-- ****P L O T S**** -->
+    <div class="row">
+      <div class="col-md-6" id="chartReport">
+        <canvas id="myChart"></canvas>
+      </div>
+
+      
+      <div class="col-md-6" id="pieReport">
+        <canvas id="pieChart"></canvas>
+      </div>
+    </div>
+
+    <div class="row">
+      
+      <div class="col-md-6">
+        <div id="statesBar"></div>
+      </div>
+
+      <div class="col-md-6">
+        <div id="yearlyBar"></div>
+      </div>
+    </div>
+
+  </div> <!--  container -->
+
+
+  <!-- <div class="row">
+      <div class="col-md-12">
+        <div id="commodityChart"></div>
+      </div>
+    </div> -->
+
+  <br>
+  </div>
+  </div>
+
+
+
+
+  <!-- ****************** -->
+
+  <div class="contactboarder w3-container  w3-black w3-center" style="width:100%">
+    <div id="contactme" class="">
+      <div class=" col-sm-3" style="margin-top:3px">
+
+        @Group 4, Project 3
+      </div>
+
+
+
+    </div>
+  </div>
+
+  <!-- <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> -->
+  
+  <!-- <script src="./static/js/app.js"></script> -->
+
+
+</body>
+
+</html>

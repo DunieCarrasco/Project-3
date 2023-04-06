@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+    <script defer src="{{ url_for('static', filename='/js/script.js') }}"></script>
+    <script defer src='https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js'></script>
+    
+    <title>Choropleth Map</title>
+
+    <style>
+        html,
+        body {
+            min-height: 100%
+        }
+
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        svg {
+            background-color: whitesmoke;
+        }
+
+        #canvas {
+            min-width: 1000px;
+            min-height: 600px;
+        }
+    </style>
+
+</head>
+
+<body>
+    <h2 id='title'>USA Agricultural Trends</h2>
+    <div id='description'>Acres operated.</div>
+    <svg id="canvas">
+
+
+    </svg>
+</body>
+
+
+</html>
