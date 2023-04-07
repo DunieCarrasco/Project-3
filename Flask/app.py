@@ -1,8 +1,16 @@
 # 1. import Flask
 from flask import Flask,render_template,jsonify,url_for,json
+from pymongo import MongoClient
 
 # 2. Create an app
 app = Flask(__name__, static_url_path='/static/')
+
+title = "Geospatial Visualization of USDA Agricultural Census Data"
+heading = "Understanding trends in American agriculture over time."
+
+client = MongoClient('mongodb+srv://dmldatasci:Jabberwocky%231116@howmuchwhere.kjyq7iq.mongodb.net/test')
+db = client.howmuchwhere
+data = db.census_numberoperations_state
 
 # 1. Define what to do when a user hits the home route
 @app.route("/")
@@ -27,6 +35,17 @@ def about():
 @app.route("/map")
 def drawMap():
     return render_template('map.html')
+
+@app.route('/commodity-map')
+def commodityMap():
+    data = db.census_numberoperations_state
+    all_2017_data = data.find({'Year' : 2017})
+    list_data = []
+    for d in all_2017_data:
+        list_data.append(d)
+
+    return json.dumps(list_data, default=json_util.default)
+
 
 if __name__ == "__main__":
     app.run(debug=True)
