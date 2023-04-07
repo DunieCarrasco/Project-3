@@ -1,9 +1,11 @@
 # 1. import Flask
 from flask import Flask,render_template,jsonify,url_for,json
+from bson import ObjectId, json_util
 from pymongo import MongoClient
+import os
 
 # 2. Create an app
-app = Flask(__name__, static_url_path='/static/')
+app = Flask(__name__)
 
 title = "Geospatial Visualization of USDA Agricultural Census Data"
 heading = "Understanding trends in American agriculture over time."
