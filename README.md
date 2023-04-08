@@ -2,6 +2,8 @@
 
 In this project we develoved an interactive app to analyze the top 16 agricultural-producing states, *SD, ND, NM, OK, CO, WY, MO, AZ, CA, IA, NE, TX, IL, KS, MN, MT*, based on the acreage used for crops over the course of years. The data is from the USDA websites https://quickstats.nass.usda.gov/api/. Using the USDA Api, we gather the acreage used for all crops in these states since 1997.
 
+![home](/images/states.png)
+
 The Flask app has three routes: *home, about, and map*.
 > about
 
@@ -9,8 +11,11 @@ The Flask app has three routes: *home, about, and map*.
 
 > home
 
+
     In this page you find three dropdowns for years, states and commodities  which let you choose any combination of those. 
     There are also four checkboxes which allow you to choose the corresponding plot.
+
+![home](/images/home.png)
 
 - We have a Grouped Bar Graph through plotly that shows Produce summary of the selected Vegetables and Grains in relation to the Acres Harvested and Acres Planted.
 
